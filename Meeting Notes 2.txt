@@ -1,0 +1,29 @@
+📝 Team Meeting Notes (Team 1)
+📅 Meeting Date: [9/10/2023]
+🕒 Time: [8:00] - [8:30]
+📍 Location: [Microsoft Teams]
+
+
+📣 Attendees:
+[Benjamin Allen]
+[Dany Seth]
+
+🎯 Meeting Objectives:
+Project Ideas.
+API/Tools
+
+🗒️ Notes:
+
+Website Design project sounds good
+
+Possible Tools:
+
+Javascript:
+
+Dreamweamer / Notepad++
+
+Wordpress / Oracle
+
+Next Meeting: 9/17/2023 8:00p
+
+...
