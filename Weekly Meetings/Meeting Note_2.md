@@ -2,7 +2,7 @@
 
 ### 📅 **Meeting Date**: [9/11/2023]
 
-### 🕒 **Time**: [7:00PM] - [8:PM]
+### 🕒 **Time**: [7:00PM] - [8:00PM]
 
 ### 📍 **Location**: [Virtual/Physical Location]
 *Craig Lee 012*
