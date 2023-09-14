@@ -1,4 +1,4 @@
-# CSCI 401 - Software Engineering - [Assignment Title]
+# CSCI 401 - Software Engineering - Product Vision
 
 ## Summary
 [Short description of the product or assignment topic.]
