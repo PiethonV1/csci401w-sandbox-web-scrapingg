@@ -1,7 +1,7 @@
 # CSCI 401 - Software Engineering - Product Vision
 
 ## Summary
-[Short description of the product or assignment topic.]
+**Hinton.io** is a software-as-a-service, hosted on the cloud. 
 
 **Team: Team Alpha**
 
