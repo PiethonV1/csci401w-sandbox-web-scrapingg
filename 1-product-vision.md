@@ -50,13 +50,11 @@
 
 | **Segment**              | **Description**                                      |
 |--------------------------|------------------------------------------------------|
-| **Problem**              | Market volatility may lead to the failurer of our    |
-|                          | model predictions.                                   |
-|                          | API Expenses can be costly depending on the          |
-|                          | available resources.                                 |
+| **Problem**              | Market volatility may lead to the failurer of our model predictions. |
+|                          | API Expenses can be costly depending on the available resources. |
 | **Solution**             | Use machine learning models to predict market volatility. |
 |                          | - LSTM (Long Short-Term Memory) model                |
-|                          | Analyze usage patterns to identify opportunities for optimization |
+|                          | Analyze usage patterns to identify opportunities for optimization. |
 | **Unique Value Prop.**   | Personalization that allows users to tailor the app to their preferences. (*Textual vs. Visual ?*) |
 |                          |  - Simplification for new investors                  |
 |                          |  - Pro version for experienced investors             |
