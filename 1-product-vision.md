@@ -50,13 +50,21 @@
 
 | **Segment**              | **Description**                                      |
 |--------------------------|------------------------------------------------------|
-| **Problem**              | - [Problem 1]                                        |
-|                          | - [Problem 2]                                        |
+| **Problem**              | Market volatility may lead to the failurer of our    |
+|                          | model predictions.                                   |
+|                          | API Expenses can be costly depending on the          |
+|                          | available resources.                                 |
 |                          | - ...                                                |
-| **Solution**             | - [Solution 1]                                       |
-|                          | - [Solution 2]                                       |
+| **Solution**             | Use machine learning models to predict market        |
+|                          | volatility.                                          |
+|                          | - LSTM (Long Short-Term Memory) model                |
+|                          | Analyze usage patterns to identify opportunities for |                              
+|                          | optimization.                                        |
 |                          | - ...                                                |
-| **Unique Value Prop.**   | [What makes the product unique.]                     |
+| **Unique Value Prop.**   | Personalization that allows users to tailor the app  |
+|                          | to their preferences. (*Textual vs. Visual?*)        |
+|                            - Simplification for new investors                   |
+|                            - Pro version for experienced investors              |
 | **Unfair Advantage**     | [The product's unique capabilities.]                 |
 | **Customer Segments**    | - [Segment 1]                                        |
 |                          | - [Segment 2]                                        |
