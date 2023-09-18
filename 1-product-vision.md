@@ -31,6 +31,8 @@
 [Detailed summary about the product's purpose, its users, and its benefits.]
 
 Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technolegies, servicing customers from financially illeterate to expert investors.
+
+<br>
 ---
 
 ## Product Vision
