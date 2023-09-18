@@ -54,17 +54,12 @@
 |                          | model predictions.                                   |
 |                          | API Expenses can be costly depending on the          |
 |                          | available resources.                                 |
-|                          | - ...                                                |
-| **Solution**             | Use machine learning models to predict market        |
-|                          | volatility.                                          |
+| **Solution**             | Use machine learning models to predict market volatility. |
 |                          | - LSTM (Long Short-Term Memory) model                |
-|                          | Analyze usage patterns to identify opportunities for |                              
-|                          | optimization.                                        |
-|                          | - ...                                                |
-| **Unique Value Prop.**   | Personalization that allows users to tailor the app  |
-|                          | to their preferences. (*Textual vs. Visual?*)        |
-|                            - Simplification for new investors                   |
-|                            - Pro version for experienced investors              |
+|                          | Analyze usage patterns to identify opportunities for optimization |
+| **Unique Value Prop.**   | Personalization that allows users to tailor the app to their preferences. (*Textual vs. Visual ?*) |
+|                          |  - Simplification for new investors                  |
+|                          |  - Pro version for experienced investors             |
 | **Unfair Advantage**     | [The product's unique capabilities.]                 |
 | **Customer Segments**    | - [Segment 1]                                        |
 |                          | - [Segment 2]                                        |
