@@ -62,18 +62,11 @@ Hinton.io is providing a prediction service of stock price and cryptocurrencues 
 |                          |  - Simplification for new investors                  |
 |                          |  - Pro version for experienced investors             |
 | **Unfair Advantage**     | [The product's unique capabilities.]                 |
-| **Customer Segments**    | - Individual Investors                            |
-|                          | - Novice Investors                                      |
-|                          | - Passive Investors                                                |
-|                          | - Day Traders                                        |
-| **Key Metrics**          | - Accuracy                                           |
-|                          | - Profit & Loss                                      |
-|                          | - Volatility                                         |
-| **Channels**             | - Website / Mobile Web Based Application             |
-|                          | - APIs                                               |
-|                          | - Email Notification                                 |
-| **Cost Structure**       | Some costs to consider are for technology infrastructure, employee salaries, security, and third party services.             |
-| **Revenue Streams**      | The sale of products, licensing brand, and subscription fees.       |
+| **Customer Segments**    | Individual investors, novice investors, passive investors, and day traders.  |
+| **Key Metrics**          | Accuracy, profit & loss, and volatility. |   
+| **Channels**             | Website / mobile web based application, APIs, email  notification. |
+| **Cost Structure**       | Some costs to consider are for technology infrastructure, employee salaries, security, and third party services. |
+| **Revenue Streams**      | The sale of products, licensing brand, and subscription fees. |
 
 ---
 
