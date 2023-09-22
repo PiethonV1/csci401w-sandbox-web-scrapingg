@@ -30,6 +30,9 @@
 ## Executive Summary
 [Detailed summary about the product's purpose, its users, and its benefits.]
 
+Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technolegies, servicing customers from financially illeterate to expert investors.
+
+<br>
 ---
 
 ## Product Vision
@@ -95,28 +98,24 @@ In conclusion, Hinton.io is not just a product; it's a movement toward financial
 
 | **Segment**              | **Description**                                      |
 |--------------------------|------------------------------------------------------|
-| **Problem**              | Market volatility may lead to the failurer of our model predictions. |
+| **Problem**              | Market volatility may lead to the failure of our model predictions. |
 |                          | API Expenses can be costly depending on the available resources. |
 | **Solution**             | Use machine learning models to predict market volatility. |
 |                          | - LSTM (Long Short-Term Memory) model                |
 |                          | Analyze usage patterns to identify opportunities for optimization. |
-| **Unique Value Prop.**   | Personalization that allows users to tailor the app to their preferences. (*Textual vs. Visual ?*) |
+| **Unique Value Prop.**   | Personalization that allows users to tailor the app to their preferences. (*Textual vs. Visual*) |
 |                          |  - Simplification for new investors                  |
 |                          |  - Pro version for experienced investors             |
 | **Unfair Advantage**     | [The product's unique capabilities.]                 |
-| **Customer Segments**    | - [Segment 1]                                        |
-|                          | - [Segment 2]                                        |
-|                          | - ...                                                |
-| **Key Metrics**          | - [Metric 1]                                         |
-|                          | - [Metric 2]                                         |
-|                          | - ...                                                |
-| **Channels**             | - [Channel 1]                                        |
-|                          | - [Channel 2]                                        |
-|                          | - ...                                                |
-| **Cost Structure**       | [List down the various costs involved.]              |
-| **Revenue Streams**      | [List down the potential sources of revenue.]        |
+| **Customer Segments**    | Individual investors, novice investors, passive investors, and day traders.  |
+| **Key Metrics**          | Accuracy, profit & loss, and volatility. |   
+| **Channels**             | Website / mobile web based application, APIs, email  notification. |
+| **Cost Structure**       | Some costs to consider are for technology infrastructure, employee salaries, security, and third party services. |
+| **Revenue Streams**      | The sale of products, licensing brand, and subscription fees. |
 
 ---
 
 ## Risks
 [Discuss potential risks or challenges associated with the product.]
+
+
