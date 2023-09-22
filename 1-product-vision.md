@@ -35,9 +35,6 @@ Hinton.io is providing a prediction service of stock price and cryptocurrencues 
 <br>
 ---
 
-## Product Vision
-[Details about the product's creation, its significance, the problem it addresses, and the target users.]
-
 # Product Vision: Hinton.io - Unleashing the Power of Data for Financial Freedom
 
 ## Overview
