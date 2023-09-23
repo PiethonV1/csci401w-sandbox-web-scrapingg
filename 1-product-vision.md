@@ -114,5 +114,5 @@ In conclusion, Hinton.io is not just a product; it's a movement toward financial
 
 ## Risks
 [Discuss potential risks or challenges associated with the product.]
-
+Although AI learning will generally result in high accuracy, outside influences such as the AI receiving and learning form bad data or sudden drops or spikes in stock price may still result in poor prediction output.
 
