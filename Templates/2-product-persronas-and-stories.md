@@ -40,15 +40,13 @@
 
 ### Persona 1
 
-**\<Persona Role\>**
-
-\<Briefly describe this persona's role and needs.>
+**Retirement Savers**
+<br>Retirement savers are concerned with their life savings, and want to reinvest their savings for a financial security and wish to leave some money for their children.
 
 ### Persona 2
 
-**\<Persona Role\>**
-
-\<Briefly describe this persona's role and needs.>
+**Early Middle Aged Mother**
+<br>A middle aged mother along with her partner are eager to learn about investing and to gain a fundamental understanding of stocks.
 
 ### Persona 3
 
@@ -60,8 +58,9 @@
 
 ### Product Scenario 1
 
-Scenario: \<Describe a usage scenario for your product.>
+**Gregory Harrison and Marry Harrison** are loving parents of a son and a daughter and have grandchildren of 6. Gregory has recently retired after 4 decades working as UPS driver and Marry also retired as secretary from a local university. Among the two them, they have saved money to ensure their sunset years are financially secured. They want to reinvest some of their live savings in the stock market so that they can purchase gifts for their children at important holidays and anniversaries, and leave some money as inheritance to their children and grandchildren when they're gone. However, both Gregory and Marry are not financially intelligent as how to invest and what to invest. So they tend to Hinton.io for stock information.
 
+**Sarah Lee**, a mother of three and a dedicated homemaker. Her curiosity into the world of stocks and investing started by the enthusiasm and support of her close-knit circle of family and friends. Recognizing the importance of a solid foundation, Sarah is eager to begin with the fundamentals. While she has a general understanding of stocks, she's interested in delving deeper and gaining a more comprehensive understanding. Because of this, she discovered a stock prediction app, Hilton.io,  that provides the features she is looking for, enabling her to acquire the foundational knowledge she desires.
 ## User Stories
 
 ### Feature1: \<Name\>
@@ -72,11 +71,10 @@ As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<e
 
 **User Story 1**
 
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+As a Hinton.io user, I want to receive stock performance information and recommendation in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market. 
 
 **User Story 2**
-
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+As a Hinton.io user, I want to have a user-friendly interface that allows me to comprehend graphs and charts easily. However, I would also want the option to access straightforward text as I educate myself about stocks. 
 
 **User Story 3**
 
