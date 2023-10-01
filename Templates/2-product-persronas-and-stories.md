@@ -50,9 +50,9 @@
 
 ### Persona 3
 
-**\<Persona Role\>**
-
-\<Briefly describe this persona's role and needs.>
+**Experienced Stock Broker**
+<br>Experienced Stock Broker looking for an app that he can use to work with for up-to-date references so that he
+can grow his and his clients' fortunes.
 
 ## Product Scenarios
 
@@ -61,6 +61,11 @@
 **Gregory Harrison and Marry Harrison** are loving parents of a son and a daughter and have grandchildren of 6. Gregory has recently retired after 4 decades working as UPS driver and Marry also retired as secretary from a local university. Among the two them, they have saved money to ensure their sunset years are financially secured. They want to reinvest some of their live savings in the stock market so that they can purchase gifts for their children at important holidays and anniversaries, and leave some money as inheritance to their children and grandchildren when they're gone. However, both Gregory and Marry are not financially intelligent as how to invest and what to invest. So they tend to Hinton.io for stock information.
 
 **Sarah Lee**, a mother of three and a dedicated homemaker. Her curiosity into the world of stocks and investing started by the enthusiasm and support of her close-knit circle of family and friends. Recognizing the importance of a solid foundation, Sarah is eager to begin with the fundamentals. While she has a general understanding of stocks, she's interested in delving deeper and gaining a more comprehensive understanding. Because of this, she discovered a stock prediction app, Hilton.io,  that provides the features she is looking for, enabling her to acquire the foundational knowledge she desires.
+
+**____ _____** is a Experienced Stock Broker looking to stay up to date on the latest market trends. He manages multiple clients
+looking to grow their fortunes, along with his own. Looking to make life easier for himself, he uses Hinton.io's AI to
+determine promisingly rising or concerningly falling stocks, quickly check them, and then use the more detailed information
+that his clients don't need or understand that's available to determine which specific stocks he needs.
 ## User Stories
 
 ### Feature1: \<Name\>
@@ -70,15 +75,13 @@
 As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<explain the benefit to the user\>.
 
 **User Story 1**
-
 As a Hinton.io user, I want to receive stock performance information and recommendation in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market. 
 
 **User Story 2**
 As a Hinton.io user, I want to have a user-friendly interface that allows me to comprehend graphs and charts easily. However, I would also want the option to access straightforward text as I educate myself about stocks. 
 
 **User Story 3**
-
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+As a user, I need more information than the average user in order to better assist my clients in making good market decisions.
 
 **Constraints**
 
