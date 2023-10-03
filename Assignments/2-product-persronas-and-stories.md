@@ -85,6 +85,10 @@ As a user, I need more information than the average user in order to better assi
 **User Story 4**
 As a college student passionate about finance and technology, I want to access educational resources and tutorials within the app, so I can enhance my knowledge of financial markets and data analysis, ultimately making more informed investment decisions and advancing my career aspirations in the finance industry.
 
+<hr>
+
+## * (We will need to establish UX and udpate features to our user stories followed by constraints and comments) *
+
 **Constraints**
 
 - \<List any constraints applicable to this feature.>
@@ -96,8 +100,3 @@ As a college student passionate about finance and technology, I want to access e
 ## User Experience
 
 **Describe the user interface for your product.**
-
-- **User-Friendly Interface:** Our app offers an intuitive and user-friendly interface, making it easy for users to navigate and analyze financial data efficiently.
-- **Data Visualization:** We provide interactive data visualization tools that help users understand market trends and stock performance, saving them time and effort.
-- **Educational Resources:** The app includes educational resources such as tutorials, articles, and video lessons, helping users enhance their knowledge of financial markets and data analysis.
-- **Customization:** Users can personalize the app to receive real-time alerts, news updates, and stock recommendations based on their preferences and interests.
