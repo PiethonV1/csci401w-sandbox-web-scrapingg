@@ -1,7 +1,30 @@
+## 📝 Team Meeting Notes (Team 1)
+### 📅 Meeting Date: [10/3/2023]
+### 🕒 Time: [6:00PM] - [7:30PM]
+### 📍 Location: [In-person]
+
+
+
+
+### 📣 Attendees:
+[Benjamin Allen]
+~~[Dany Seth]~~  ill
+~~[Jason Cain]~~ unwell
+[Lili Chen]
+
+
+
 Meeting Skipped due to 2 Members getting sick. Below are the class notes for that Monday Class.
 
 Vision statement - copyish from example
 
+### 🎯 Meeting Objectives:
+- Review progress since the last meeting.
+- Discuss and refine items in the backlog.
+- Assign responsibilities for the upcoming sprint and stories
+
+
+### 🗒️ Notes:
 ________________________________________
 
 1. Focus on who customer is
