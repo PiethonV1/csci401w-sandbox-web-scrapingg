@@ -4,6 +4,7 @@
 ### 📍 Location: [In-Person @Craig Lee 012]
 
 <br>
+
 ### 📣 Attendees:
 [Benjamin Allen]
 [Dany Seth]
