@@ -26,8 +26,7 @@
 
 User Stories:
 Each sentence has one feature.
-
-
+![Sample_Architecture_Framework](Architecture_Framework_sameple.png)
 
 
 ### To Do:
