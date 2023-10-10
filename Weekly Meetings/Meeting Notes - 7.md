@@ -3,12 +3,14 @@
 ### 🕒 Time: [6:30PM] - [8:30PM]
 ### 📍 Location: [In-Person @Craig Lee 012]
 
-
+<br>
 ### 📣 Attendees:
 [Benjamin Allen]
 [Dany Seth]
 [Jason Cain]
 [Lili Chen]
+
+<br>
 
 ### 🎯 Meeting Objectives:
 - Review progress since the last meeting.
@@ -19,13 +21,15 @@
 - Area to improve: Trello
 - Assign responsibilities for the upcoming sprint.
 
-
+<br>
 
 ### 🗒️ Notes:
 
 
 User Stories:
 Each sentence has one feature.
+
+<br>
 ### To Do:
 1) Architecture, Framework
 2) Trello
