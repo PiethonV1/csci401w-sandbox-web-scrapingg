@@ -15,11 +15,9 @@
 - Create Sprint 2 for the project progress made during 9/25 - 10/10 (persona & stories)
 - Discuss and refine items Personas and Stories for Assignment 2
 - Discuss and define architecture decisions for the project (framework)
-    - ![Sample Architecture Framework](Architecture framework_sample.png)
 - Determined the focus of the project: Trello and Framework
 - Area to improve: Trello
 - Assign responsibilities for the upcoming sprint.
-
 
 
 
