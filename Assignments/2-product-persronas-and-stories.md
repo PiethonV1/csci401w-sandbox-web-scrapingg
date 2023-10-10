@@ -85,6 +85,34 @@ As a user, I need more information than the average user in order to better assi
 **User Story 4**
 As a college student passionate about finance and technology, I want to access educational resources and tutorials within the app, so I can enhance my knowledge of financial markets and data analysis, ultimately making more informed investment decisions and advancing my career aspirations in the finance industry.
 
+**Constraints**
+
+- \<List any constraints applicable to this feature.>
+
+**Comments**
+
+- \<Any additional comments or suggestions regarding this feature.>
+
+<br>
+
+### Feature2: \<Name\>
+
+
+
+
+**Constraints**
+
+- \<List any constraints applicable to this feature.>
+
+**Comments**
+
+- \<Any additional comments or suggestions regarding this feature.>
+
+<br>
+
+### Feature3: \<Name\>
+
+
 <hr>
 
 ## * (We will need to establish UX and udpate features to our user stories followed by constraints and comments) *
@@ -96,6 +124,9 @@ As a college student passionate about finance and technology, I want to access e
 **Comments**
 
 - \<Any additional comments or suggestions regarding this feature.>
+
+
+<br>
 
 ## User Experience
 

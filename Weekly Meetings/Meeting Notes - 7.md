@@ -36,7 +36,7 @@ Each sentence has one feature.
 <br>
 
 ### To Do:
-1) Architecture, Framework
+1) each of us will make our own Architecture Framework, and discuss on coming Monday night and then finalize
 2) Trello
 3) Next Week: meeting on Monday night after class
 
