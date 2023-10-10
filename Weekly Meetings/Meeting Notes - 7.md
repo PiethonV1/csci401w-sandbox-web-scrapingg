@@ -26,11 +26,6 @@
 
 User Stories:
 Each sentence has one feature.
-
-Sample_Architecture_Framework:
-
-
-
 ### To Do:
 1) Architecture, Framework
 2) Trello
