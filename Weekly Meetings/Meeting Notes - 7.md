@@ -18,7 +18,9 @@
 - Create Sprint 2 for the project progress made during 9/25 - 10/10 (persona & stories)
 - Discuss and refine items Personas and Stories for Assignment 2
 - Discuss and define architecture decisions for the project (framework)
-    - django & Flask for front-end
+    - django as back-end framework (not Flask)
+    - Streamlit as front-end framework (vs. Bootstrap vs Node.js, open-source, fast development)
+    - SQL as database
 - Determined the focus of the project: Trello and Framework
 - Area to improve: Trello
 - Assign responsibilities for the upcoming sprint.
