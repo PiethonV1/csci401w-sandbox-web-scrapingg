@@ -59,7 +59,7 @@ can grow his and his clients' fortunes.
 
 **Sarah Lee**, a mother of three and a dedicated homemaker. Her curiosity into the world of stocks and investing started by the enthusiasm and support of her close-knit circle of family and friends. Recognizing the importance of a solid foundation, Sarah is eager to begin with the fundamentals. While she has a general understanding of stocks, she's interested in delving deeper and gaining a more comprehensive understanding. Because of this, she discovered a stock prediction app, Hilton.io,  that provides the features she is looking for, enabling her to acquire the foundational knowledge she desires.
 
-**____ _____** is a Experienced Stock Broker looking to stay up to date on the latest market trends. He manages multiple clients
+**James Rockford** is a Experienced Stock Broker looking to stay up to date on the latest market trends. He manages multiple clients
 looking to grow their fortunes, along with his own. Looking to make life easier for himself, he uses Hinton.io's AI to
 determine promisingly rising or concerningly falling stocks, quickly check them, and then use the more detailed information
 that his clients don't need or understand that's available to determine which specific stocks he needs.
