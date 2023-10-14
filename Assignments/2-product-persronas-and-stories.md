@@ -67,17 +67,50 @@ that his clients don't need or understand that's available to determine which sp
 **Alex Davis** is a 21-year-old college student pursuing a bachelor's degree in computer science at a reputable university. They are in their junior year and have a strong passion for finance and technology. Alex has been actively trading stocks and cryptocurrencies in their free time for the past year, and they are always looking for ways to enhance their knowledge and make informed investment decisions.
 ## User Stories
 
+## ****** NOTE - FILL OUT FEATURE, DESCRIPTION, CONSTRAINTS, and COMMENTS HERE *******
+
 ### Feature1: \<Name\>
 
 **Description**
 
-As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<explain the benefit to the user\>.
+**Constraints**
+
+**Comments**
+
+### Feature2: Graph and Text Section User Interface
+
+**Description**
+
+As a Hinton.io user, I want to have a user-friendly interface that allows me to comprehend graphs and charts easily. However, I would also want the option to access straightforward text as I educate myself about stocks. 
+
+As a Hinton.io user, I want to have the option to access straightforward text as I educate myself about stocks.
+
+**Constraints**
+
+Users must have an account with Hinton.io to access graphs and charts.
+
+**Comments**
+
+Users may be limited to stock predictions based on free vs. professional account.
+
+### Feature3: \<Name\>
+
+**Description**
+
+**Constraints**
+
+**Comments**
+
+### Feature4: \<Name\>
+
+**Description**
+
+**Constraints**
+
+**Comments**
 
 **User Story 1**
 As a Hinton.io user, I want to receive stock performance information and recommendation in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market. 
-
-**User Story 2**
-As a Hinton.io user, I want to have a user-friendly interface that allows me to comprehend graphs and charts easily. However, I would also want the option to access straightforward text as I educate myself about stocks. 
 
 **User Story 3**
 As a user, I need more information than the average user in order to better assist my clients in making good market decisions.
@@ -85,49 +118,23 @@ As a user, I need more information than the average user in order to better assi
 **User Story 4**
 As a college student passionate about finance and technology, I want to access educational resources and tutorials within the app, so I can enhance my knowledge of financial markets and data analysis, ultimately making more informed investment decisions and advancing my career aspirations in the finance industry.
 
-**Constraints**
-
-- \<List any constraints applicable to this feature.>
-
-**Comments**
-
-- \<Any additional comments or suggestions regarding this feature.>
-
-<br>
-
-### Feature2: \<Name\>
-
-
-
-
-**Constraints**
-
-- \<List any constraints applicable to this feature.>
-
-**Comments**
-
-- \<Any additional comments or suggestions regarding this feature.>
-
-<br>
-
-### Feature3: \<Name\>
-
-
 <hr>
-
-## * (We will need to establish UX and udpate features to our user stories followed by constraints and comments) *
-
-**Constraints**
-
-- \<List any constraints applicable to this feature.>
-
-**Comments**
-
-- \<Any additional comments or suggestions regarding this feature.>
-
-
-<br>
 
 ## User Experience
 
-**Describe the user interface for your product.**
+Users arrive at the **homepage**
+
+Users are prompted to **sign in** or **create account**
+
+**Onboard** - Users will select their preferred stocks that they want to track
+
+Users will gain access to their **dashboard** which is their central hub for personalized stocks
+
+**Graphs and Text section** where users can toggle between graphs and charts or access written prediction analysis
+
+**Free vs. Pro version** Users are signed up with basic features by default and have the option to access premium features
+by upgrading to the professional version. 
+
+**Upgrade process** will take users to a page where they can see the benefits of the professional version and payment center
+
+**Logout** 
