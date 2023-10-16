@@ -74,6 +74,7 @@ Are there particular strengths within your team that influenced your decisions? 
 Did the availability of tutorials, community support, or other resources influence your choice?
 
 1) Python is a very well supported, and easy to learn language, making it our main choice.
+2) Django is a well supported framework with plenty of assistance online.
 
 ### 4.3. Future Adaptability
 
