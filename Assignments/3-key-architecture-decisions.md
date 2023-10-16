@@ -93,8 +93,8 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 | 2023-09-01 | Chose React as our frontend framework.   | Our team found an abundance of beginner-friendly tutorials for React. Additionally, two members have some prior exposure to it, making it a logical starting point for our project. |
 
 Date           Decision                                  Reasoning
-10/16/2023     Chose Django As Frontend Frame work        Security and reliablity
-10/16/2023     Chose MySQL as Database                    Well Supported by Django
+10/16/2023 --- Chose Django As Frontend Frame work ----- Security and reliablity
+10/16/2023 --- Chose MySQL as Database             ----- Well Supported by Django
 
 
 Note: As you progress, keep adding to this log. It will not only help you track your decisions but also offer insights into your evolving
