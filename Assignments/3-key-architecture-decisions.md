@@ -45,14 +45,17 @@ Provide a simple diagram or description of the high-level system.
 ### 3.1. Frontend Framework
 
 Which frontend framework/library are you using? Most importantly, **why** did you choose it?
+Django - Secure and Reliable for many users at once
 
 ### 3.2. Backend Framework
 
 Your choice for the backend and the reasons behind it.
+Django - See above
 
 ### 3.3. Database System
 
 Which database system will you use, and **why**?
+MySQL - Django supports this well.
 
 ---
 
@@ -87,5 +90,10 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 | Date       | Decision                                 | Reasoning                                                                                                           |
 |------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | 2023-09-01 | Chose React as our frontend framework.   | Our team found an abundance of beginner-friendly tutorials for React. Additionally, two members have some prior exposure to it, making it a logical starting point for our project. |
+
+Date           Decision                                  Reasoning
+10/16/2023     Chose Django As Frontend Frame work        Security and reliablity
+10/16/2023     Chose MySQL as Database                    Well Supported by Django
+
 
 Note: As you progress, keep adding to this log. It will not only help you track your decisions but also offer insights into your evolving
