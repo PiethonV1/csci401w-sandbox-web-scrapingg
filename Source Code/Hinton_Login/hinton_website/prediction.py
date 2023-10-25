@@ -11,7 +11,7 @@ from plotly import graph_objs as go
 START = "2013-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
-st.title('Hinton.io - Free')
+st.title('Today\'s Stock Predictions')
 
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME')
 selected_stock = st.selectbox('Select dataset for prediction', stocks)

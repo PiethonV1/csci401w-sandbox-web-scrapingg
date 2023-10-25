@@ -1,0 +1,52 @@
+<!-- streamlit_template.html -->
+<!doctype html>
+<html>
+<head>
+	<style type="text/css">
+        h1 {
+            font-weight: 900;
+            color: green;
+            margin-bottom: -25px!important;
+            padding-top: 20px;
+        }
+        strong {
+            color: green;
+        }
+        a {
+            color: #333;
+        }
+        a:hover {
+            color: green;
+        }
+        div {
+            text-align: center;
+        }
+        #user-account {
+            float: right;
+            padding-right: 20px; 
+        }
+        iframe {
+            width: 100%;
+            height: 700px;
+        }
+    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>{% block title %}Hinton.io{% endblock %}</title>
+</head>
+<body>
+    <div>
+        <h1>HINTON.IO</h1>
+        <span id="user-account"><strong>Hi, {{ user_name }}</strong>!
+        <strong><a href="{% url 'logout' %}">   Logout</a></strong></span>
+    </div>
+    <div id="user-account">
+        
+    </div>
+    <div>
+        <iframe style="border: none" src="http://localhost:8501/" width="800" height="600"></iframe>
+    </div>
+</body>

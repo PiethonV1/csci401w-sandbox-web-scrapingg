@@ -2,11 +2,20 @@ import subprocess
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
 
-def run_streamlit_app(request):
-    # Replace 'path/to/prediction_app.py' with the actual path to your Streamlit app file.
-    streamlit_command = ['streamlit', 'run', '/Users/dany/Documents/Fall 2023/Software Engineer/prediction.py']
+def streamlit_view(request):
+    user_name = request.user.username
+
+    # Start the Streamlit app as a background process
+    streamlit_command = [
+        'streamlit', 'run',
+        '/Users/danys/OneDrive/Documents/RIC/Fall 2023/CSCI 401W/csci401w-sandbox-web-scrapingg/Source Code/Hinton_Login/hinton_website/prediction.py'
+    ]
+
     subprocess.Popen(streamlit_command)
-    return HttpResponse("Hinton.io will open in a new tab...")
+
+    return render(request, 'streamlit_template.html', {'user_name': user_name})
+
+
 
 def index(request):
     return redirect('login')

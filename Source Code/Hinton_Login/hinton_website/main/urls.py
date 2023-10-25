@@ -5,5 +5,5 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('run-streamlit-app/', views.run_streamlit_app, name='run-streamlit-app'),
+    path('view-forecast/', views.streamlit_view, name='view-forecast'),
 ]

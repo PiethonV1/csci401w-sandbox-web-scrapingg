@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_b^6th1k*1&$n^ck*o90@16^@1rnm$h49&$9nn5khk5vlu3_9!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -128,5 +128,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CRISPY_TEMPLATE_PACK="bootstrap4"
 
-LOGIN_REDIRECT_URL = '/run-streamlit-app/'
+LOGIN_REDIRECT_URL = '/view-forecast/'
 LOGOUT_REDIRECT_URL = "/"
