@@ -43,7 +43,7 @@ def streamlit_view(request):
         subprocess.Popen(streamlit_command)
 
         # Wait for Streamlit to start (adjust the timeout as needed)
-        max_wait_time = 60  # Maximum wait time in seconds
+        max_wait_time = 20  # Maximum wait time in seconds
         start_time = time.time()
         while not is_streamlit_running() and (time.time() - start_time) < max_wait_time:
             time.sleep(1)
