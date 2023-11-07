@@ -1,3 +1,4 @@
+/*
 CREATE TABLE Company(
 Ticker VARCHAR (15),
 Company_Name VARCHAR (50),
@@ -7,38 +8,42 @@ PRIMARY KEY (Ticker)
 INSERT INTO Company VALUES
 ("GOOGL", "ALPHABET InC Class A"),
 ("FB", "Meta Platforms Inc");
-
+*/
 
 /* Weak entity, depend on Strong entity: Company
 It doesn't not have PRIMARY KEY*/
-CREATE TABLE Stock(
-Ticker VARCHAR (15),
-_date DATE,
+CREATE TABLE Stock_Ticker(
+/* Adj_Close DECIMAL(6,2),
+Volume INT,*/
+Ticker VARCHAR (10),
+Open_date DATE,
 Open_Price DECIMAL(6,2),
 High DECIMAL(6,2),
 Low DECIMAL(6,2),
 Close_price DECIMAL(6,2),
-Adj_Close DECIMAL(6,2),
-Volume INT,
-FOREIGN KEY (Ticker) REFERENCES Company(Ticker)
+PRIMARY KEY (Ticker, Open_date)
+/* FOREIGN KEY (Ticker) REFERENCES Company(Ticker)
 	ON DELETE CASCADE
-    ON UPDATE CASCADE
+    ON UPDATE CASCADE */
 );
 
+/*
 INSERT INTO Stock VALUES
 (),
 ();
-
+*/
 
 CREATE TABLE User(
-MemberID INT UNSIGNED AUTO_INCREMENT,
-UserName VARCHAR(20) NOT NULL,
-Email_Addr VARCHAR(100) CHECK (Email_Addr IN ('abcdefghijiklmno', 'ABCDEF','~!@#$%_^&*()')),
+/* MemberID INT UNSIGNED AUTO_INCREMENT,
 Account_Passwd VARCHAR(50) CHECK (Email_Addr IN ('abcdefghijiklmno', 'ABCDEF','~!@#$%_^&*()')),
-PRIMARY KEY(MemberID)
+*/
+UserName VARCHAR(20) NOT NULL,
+Email_Addr VARCHAR(100) CHECK (Email_Addr IN ('abcdefghijiklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','~!@#$%_^&*()')),
+PRIMARY KEY(UserName)
 );
 
 
+/*
 INSERT INTO User VALUES
 (),
 ();
@@ -101,3 +106,4 @@ FOREIGN KEY (Interested_date) REFERENCES Forecast(Interested_date)
 INSERT INTO User_Has_Forecast VALUES
 (),
 ();
+*/
