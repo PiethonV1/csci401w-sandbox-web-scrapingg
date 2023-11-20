@@ -4,6 +4,14 @@ from django.shortcuts import render, redirect
 from django.http import JsonResponse
 import os
 import time
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from .models import StockData
+
+@api_view(['GET'])
+def get_tickers(request):
+    tickers = StockData.objects.values_list('symbol', flat=True).distinct()
+    return Response(tickers)
 
 def get_username(request):
     if request.user.is_authenticated:

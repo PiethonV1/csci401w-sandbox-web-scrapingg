@@ -8,6 +8,8 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 from plotly import graph_objs as go
 
+django_server_url = 'http://127.0.0.1:8000'
+
 START = "2013-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
