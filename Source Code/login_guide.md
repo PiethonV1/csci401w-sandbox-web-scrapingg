@@ -40,3 +40,7 @@ Once the server is up and running, open a web browser and go to the following UR
 - http://127.0.0.1:8000/login/
 
 Or you can simply click on the link right in your terminal
+
+## Troubleshooting Notes
+
+![Alt text](image-4.png)
