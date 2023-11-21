@@ -37,7 +37,7 @@ CREATE TABLE User(
 /* MemberID INT UNSIGNED AUTO_INCREMENT,
 Account_Passwd VARCHAR(50) CHECK (Email_Addr IN ('abcdefghijiklmno', 'ABCDEF','~!@#$%_^&*()')),
 */
-UserName VARCHAR(20) NOT NULL,
+UserName VARCHAR(20) UNIQUE NOT NULL, 
 Email_Addr VARCHAR(100) CHECK (Email_Addr IN ('abcdefghijiklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','~!@#$%_^&*()')),
 PRIMARY KEY(UserName)
 );
