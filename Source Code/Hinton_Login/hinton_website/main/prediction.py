@@ -12,10 +12,21 @@ from plotly import graph_objs as go
 START = "2013-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
-st.title('Today\'s Stock Predictions')
-
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME')
 selected_stock = st.selectbox('Select dataset for prediction', stocks)
+
+stock_name = selected_stock
+
+if selected_stock == 'GOOG':
+    stock_name = 'Google'
+elif selected_stock == 'AAPL':
+    stock_name = 'Apple'
+elif selected_stock == 'MSFT':
+    stock_name = 'Microsoft'
+else:
+    stock_name = 'GameStop'
+
+st.title(f'{stock_name} Stock Predictions')
 
 n_years = st.slider('Years of prediction:', 1, 4)
 period = n_years * 365
@@ -36,8 +47,8 @@ st.write(data.tail())
 # Plot raw data
 def plot_raw_data():
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=data['Date'], y=data['Open'], name="stock_open"))
-    fig.add_trace(go.Scatter(x=data['Date'], y=data['Close'], name="stock_close"))
+    fig.add_trace(go.Scatter(x=data['Date'], y=data['Open'], name="stock_open", line=dict(color='black')))
+    fig.add_trace(go.Scatter(x=data['Date'], y=data['Close'], name="stock_close", line=dict(color='green')))
     fig.layout.update(title_text='Time Series data with Rangeslider', xaxis_rangeslider_visible=True)
     st.plotly_chart(fig)
 
@@ -58,8 +69,10 @@ st.write(forecast.tail())
 
 st.write(f'Forecast plot for {n_years} years')
 fig1 = plot_plotly(m, forecast)
+fig1.update_traces(line=dict(color='green'))
 st.plotly_chart(fig1)
 
 st.write("Forecast components")
 fig2 = m.plot_components(forecast)
+fig1.update_traces(line=dict(color='green'))
 st.write(fig2)
