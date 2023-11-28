@@ -1,14 +1,4 @@
-/*
-CREATE TABLE Company(
-Ticker VARCHAR (15),
-Company_Name VARCHAR (50),
-PRIMARY KEY (Ticker)
-);
 
-INSERT INTO Company VALUES
-("GOOGL", "ALPHABET InC Class A"),
-("FB", "Meta Platforms Inc");
-*/
 
 /* Weak entity, depend on Strong entity: Company
 It doesn't not have PRIMARY KEY*/
@@ -43,11 +33,25 @@ PRIMARY KEY(UserName)
 );
 
 
+
+
 /*
 INSERT INTO User VALUES
 (),
 ();
 
+
+/*
+CREATE TABLE Company(
+Ticker VARCHAR (15),
+Company_Name VARCHAR (50),
+PRIMARY KEY (Ticker)
+);
+
+INSERT INTO Company VALUES
+("GOOGL", "ALPHABET InC Class A"),
+("FB", "Meta Platforms Inc");
+*/
 
 
 /* many-to-many relationship*/
