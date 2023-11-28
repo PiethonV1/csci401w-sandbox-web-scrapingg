@@ -95,7 +95,7 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 | Date       | Decision                             | Reasoning               |
 |------------|--------------------------------------|-------------------------|
 | 10/16/2023 | Chose Django As Frontend Frame work  |Security and reliablity  |
-| 10/16/2023 | Chose MySQL as Database              |Well Supported by Django |
+| 11/27/2023 | Chose SQLite as Database              |Well Supported by Django and easy to connect (no password required)|
 
 
 Note: As you progress, keep adding to this log. It will not only help you track your decisions but also offer insights into your evolving
