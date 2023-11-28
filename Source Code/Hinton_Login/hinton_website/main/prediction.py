@@ -39,6 +39,7 @@ n_years = st.slider('Years of prediction:', 1, 4)
 period = n_years * 365
 
 @st.cache_data
+@st.experimental_memo
 def load_data(ticker):
     data = yf.download(ticker, START, TODAY)
     data.reset_index(inplace=True)
