@@ -92,5 +92,18 @@
         // Start checking if Streamlit is running
         waitForStreamlit();
     </script>
+
+    <!-- Add these scripts to include Botpress Web Chat -->
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ee61ab9b-419a-424d-b70d-0f5c8e84e65b/webchat/config.js" defer></script>
+
+<!-- Initialize the chatbot -->
+<script>
+    window.addEventListener('load', function () {
+
+        // Initialize the chatbot
+        WebChat.default.init(options);
+    });
+</script>
 </body>
 </html>
