@@ -48,16 +48,13 @@ We chose **Django** as our frontend framework because it provides a secure and r
 
 ### 3.2. Backend Framework
 
-Your choice for the backend and the reasons behind it.
-
 1) **Django** is our chosen backend framework due to its seamless integration with the frontend (Django itself) and its proven track record for building robust web applications. The ability to handle many users concurrently is crucial for our project, and Django's built-in features, such as the ORM, authentication system, and support for handling multiple requests, make it a secure and reliable choice. The Python ecosystem, extensive documentation, and an active community further contribute to our decision to use Django as our backend framework.
 
 2) We have integrated **Streamlit** into our Django project because it complements Django's capabilities by providing a simple and effective way to create interactive data-driven web applications using Python. Streamlit allows us to build rich, responsive user interfaces with minimal effort, leveraging the power of Python libraries for data analysis and visualization. This integration enhances the user experience by seamlessly combining the robust backend capabilities of Django with the interactive and dynamic frontend features offered by Streamlit.
 
 ### 3.3. Database System
 
-Which database system will you use, and **why**?
-MySQL - Django supports this well.
+**MySQL** has been around for a long time and has a reputation for stability and reliability. This can be crucial for projects that prioritize a mature and proven technology stack.
 
 ---
 
@@ -76,13 +73,16 @@ Are there particular strengths within your team that influenced your decisions? 
 Did the availability of tutorials, community support, or other resources influence your choice?
 
 1) Python is a very well supported, and easy to learn language, making it our main choice.
+
 2) Django is a well supported framework with plenty of assistance online.
+
+3) Streamlit is widely used for making interactive data-driven web applications. It is user friendly and easily deployable. 
 
 ### 4.3. Future Adaptability
 
 How easy do you believe it will be to adapt or extend the technology choices you’ve made in the future based on your current knowledge?
 
-1) With AI technology still being developed, the app could easily grow to include even more information to read and explain in the future.
+1) With AI technology still being developed, the app could easily grow to include even more information to read and explain in the future. The algorithms are always being improved, so the predicitions will become more accurate as well.
 
 ---
 
@@ -96,8 +96,8 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 
 | Date       | Decision                             | Reasoning               |
 |------------|--------------------------------------|-------------------------|
-| 10/16/2023 | Chose Django As Frontend Frame work  |Security and reliablity  |
-| 11/27/2023 | Chose SQLite as Database              |Well Supported by Django and easy to connect (no password required)|
+| 10/16/2023 | Chose Django As Frontend Frame work  |Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
+| 11/27/2023 | Chose SQLite as Database              |Well Supported by Django and easy to connect (no password required). We spent most of our time working with our frontend and middleware. Now that we have a solid application, we can implement the DB. |
 
 
 Note: As you progress, keep adding to this log. It will not only help you track your decisions but also offer insights into your evolving
