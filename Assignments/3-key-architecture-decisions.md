@@ -97,11 +97,11 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 | Date       | Decision                             | Reasoning               |
 |------------|--------------------------------------|-------------------------|
 | 10/16/2023 | Chose Django As Frontend Frame work  | Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
-| 10/16/2023 | Chose Streamlit for our main web-app |                   |
+| 10/16/2023 | Chose Streamlit for our main web-app | It is used in many data web apps. It is easy to work with and it runs relatively smooth.                   |
 | 10/23/2023 | Chose SQLite as Database              | Well Supported by Django and easy to connect (no password required). We spent most of our time working with our frontend and middleware. Now that we have a solid application, we can implement the DB. |
-| 10/30/2023 |                                  |                  |
-| 11/06/2023 |                                  |                  |
-| 11/13/2023 |                                  |                  |
+| 10/30/2023 | News Updates | We wanted to add more "life" to our front page. This plugin adds real time news updates about the stocks                  |
+| 11/30/2023 | Implement BotPress as our chatbot   | We were looking to add some finishing touches to our app. Essentially, it is plug and play. Can connect it to the app and we are able to manipulate the prompts on the fly            |
+
 
 
 
