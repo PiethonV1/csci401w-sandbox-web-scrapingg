@@ -96,8 +96,14 @@ Here, you'll log key decisions made and the rationale behind them. Here's an exa
 
 | Date       | Decision                             | Reasoning               |
 |------------|--------------------------------------|-------------------------|
-| 10/16/2023 | Chose Django As Frontend Frame work  |Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
-| 11/27/2023 | Chose SQLite as Database              |Well Supported by Django and easy to connect (no password required). We spent most of our time working with our frontend and middleware. Now that we have a solid application, we can implement the DB. |
+| 10/16/2023 | Chose Django As Frontend Frame work  | Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
+| 10/16/2023 | Chose Streamlit for our main web-app |                   |
+| 10/23/2023 | Chose SQLite as Database              | Well Supported by Django and easy to connect (no password required). We spent most of our time working with our frontend and middleware. Now that we have a solid application, we can implement the DB. |
+| 10/30/2023 |                                  |                  |
+| 11/06/2023 |                                  |                  |
+| 11/13/2023 |                                  |                  |
+
+
 
 
 Note: As you progress, keep adding to this log. It will not only help you track your decisions but also offer insights into your evolving
