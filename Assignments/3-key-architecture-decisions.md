@@ -50,9 +50,9 @@ We chose **Django** as our frontend framework because it provides a secure and r
 
 Your choice for the backend and the reasons behind it.
 
-1) Django: **- See above**
+1) **Django** is our chosen backend framework due to its seamless integration with the frontend (Django itself) and its proven track record for building robust web applications. The ability to handle many users concurrently is crucial for our project, and Django's built-in features, such as the ORM, authentication system, and support for handling multiple requests, make it a secure and reliable choice. The Python ecosystem, extensive documentation, and an active community further contribute to our decision to use Django as our backend framework.
 
-2) Streamlit: Goes in hand with Django by using python libraries 
+2) We have integrated **Streamlit** into our Django project because it complements Django's capabilities by providing a simple and effective way to create interactive data-driven web applications using Python. Streamlit allows us to build rich, responsive user interfaces with minimal effort, leveraging the power of Python libraries for data analysis and visualization. This integration enhances the user experience by seamlessly combining the robust backend capabilities of Django with the interactive and dynamic frontend features offered by Streamlit.
 
 ### 3.3. Database System
 
