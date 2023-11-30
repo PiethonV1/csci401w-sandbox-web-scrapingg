@@ -45,12 +45,16 @@ Provide a simple diagram or description of the high-level system.
 ### 3.1. Frontend Framework
 
 Which frontend framework/library are you using? Most importantly, **why** did you choose it?
-Django - Secure and Reliable for many users at once
+
+We chose Django as our frontend framework because it provides a secure and reliable environment for handling multiple users simultaneously. Django follows best practices in web development, including built-in security features, an ORM for database interactions, and a robust authentication system. These qualities make it an excellent choice for projects where security and scalability are crucial.
 
 ### 3.2. Backend Framework
 
 Your choice for the backend and the reasons behind it.
-Django - See above
+
+1) Django: **- See above**
+
+2) Streamlit: Goes in hand with Django by using python libraries 
 
 ### 3.3. Database System
 
