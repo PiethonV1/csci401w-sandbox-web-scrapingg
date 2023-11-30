@@ -88,15 +88,10 @@ How easy do you believe it will be to adapt or extend the technology choices you
 
 ## 5. Decision Log
 
-Here, you'll log key decisions made and the rationale behind them. Here's an example:
-
-| Date       | Decision                                 | Reasoning                                                                                                           |
-|------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| 2023-09-01 | Chose React as our frontend framework.   | Our team found an abundance of beginner-friendly tutorials for React. Additionally, two members have some prior exposure to it, making it a logical starting point for our project. |
-
 | Date       | Decision                             | Reasoning               |
 |------------|--------------------------------------|-------------------------|
-| 10/16/2023 | Chose Django As Frontend Frame work  | Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
+| 09/18/2023 | Chose React as our frontend framework.   | Our team found an abundance of beginner-friendly tutorials for React. Additionally, two members have some prior exposure to it, making it a logical starting point for our project. |
+| 10/09/2023 | Chose Django As Frontend Frame work  | Security and reliablity. We also found that it looked nicer and the built in tools sparked our interest. Through small experiments, we found that it is greatly customizable, and we can connect web apps such as our Streamlit program.  |
 | 10/16/2023 | Chose Streamlit for our main web-app | It is used in many data web apps. It is easy to work with and it runs relatively smooth.                   |
 | 10/23/2023 | Chose SQLite as Database              | Well Supported by Django and easy to connect (no password required). We spent most of our time working with our frontend and middleware. Now that we have a solid application, we can implement the DB. |
 | 10/30/2023 | News Updates | We wanted to add more "life" to our front page. This plugin adds real time news updates about the stocks                  |
