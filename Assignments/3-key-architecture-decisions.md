@@ -26,17 +26,13 @@ This assignment is designed to guide you in understanding the foundational aspec
 
 ### 1.1. Purpose
 
-A brief overview of what this document entails.
-
-1) This document is to note what/which tools we will be using in developing our AI-Driven Stock/Financial App.
+This document is to note the tools we will be using in developing our AI-Driven Stock/Financial App.
 
 ---
 
 ## 2. System Overview
 
-Provide a simple diagram or description of the high-level system.
-
-1) This AI-powered app will learn from and read stock market information, presenting it in a clear, easy to understand way.
+This AI-powered app will learn from and read stock market information, presenting it in a clear, easy to understand way.
 
 ---
 
