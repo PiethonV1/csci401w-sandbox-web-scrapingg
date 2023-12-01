@@ -67,17 +67,21 @@ that his clients don't need or understand that's available to determine which sp
 **Alex Davis** is a 21-year-old college student pursuing a bachelor's degree in computer science at a reputable university. They are in their junior year and have a strong passion for finance and technology. Alex has been actively trading stocks and cryptocurrencies in their free time for the past year, and they are always looking for ways to enhance their knowledge and make informed investment decisions.
 ## User Stories
 
-## ****** NOTE - FILL OUT FEATURE, DESCRIPTION, CONSTRAINTS, and COMMENTS HERE *******
-
-### Feature1: \<Name\>
+### Feature1: Plain Text Feature
 
 **Description**
 
+As a Hinton.io user, I want to receive stock performance information and recommendation in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market. 
+
 **Constraints**
+
+Challenging to maintain accurate and reliable data interpretation.
 
 **Comments**
 
-### Feature2: Graph and Text Section User Interface
+A dashboard that has a toggle between plain text and graphical interfaces.
+
+### Feature 2: Graph and Text Section User Interface
 
 **Description**
 
@@ -93,32 +97,29 @@ Users must have an account with Hinton.io to access graphs and charts.
 
 Users may be limited to stock predictions based on free vs. professional account.
 
-### Feature3: \<Name\>
+### Feature 3: Predictive Analytics
 
 **Description**
 
-**Constraints**
-
-**Comments**
-
-### Feature4: \<Name\>
-
-**Description**
-
-**Constraints**
-
-**Comments**
-
-**User Story 1**
-As a Hinton.io user, I want to receive stock performance information and recommendation in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market. 
-
-**User Story 3**
 As a user, I need more information than the average user in order to better assist my clients in making good market decisions.
 
-**User Story 4**
+**Constraints**
+
+Market volatility and uncertainty. Financial markets can be highly volatile, and unforeseen events can lead to sudden changes in market dynamics. Predictive models may struggle to accurately forecast outcomes during periods of heightened uncertainty.
+
+### Feature 4: Q&A 
+
+**Description**
+
 As a college student passionate about finance and technology, I want to access educational resources and tutorials within the app, so I can enhance my knowledge of financial markets and data analysis, ultimately making more informed investment decisions and advancing my career aspirations in the finance industry.
 
-<hr>
+**Constraints**
+
+Preventing the dissemination of misleading or incorrect advice and information that could impact user understanding and decision-making.
+
+**Comments**
+
+The dashboard offers a chatbot for Q&A, providing users with an interactive and real-time platform to ask questions, seek financial advice, and engage in discussions, enhancing their overall learning experience and knowledge-sharing within the finance and technology community.
 
 ## User Experience
 
