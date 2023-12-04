@@ -12,17 +12,12 @@
   - [Persona 2](#persona-2)
   - [Persona 3](#persona-3)
 - [Product Scenarios](#product-scenarios)
-  - [Product Scenario 1](#product-scenario-1)
-- [User Stories](#user-stories)
-  - [Feature1:](#feature1-name)
-    - [Description](#description)
-    - [User Story 1](#user-story-1)
-    - [User Story 2](#user-story-2)
-    - [User Story 3](#user-story-3)
-    - [Constraints](#constraints)
-    - [Comments](#comments)
+- [Product Personas](#product-personas)
+  - [Feature 1](#feature-1)
+  - [Feature 2](#feature-2)
+  - [Feature 3](#feature-3)
+  - [Feature 4](#feature-4)
 - [User Experience](#user-experience)
-  - [Describe the User Interface](#describe-the-user-interface)
 
 ## Product Definition
 Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technolegies, servicing customers from financially illeterate to expert investors.
@@ -52,8 +47,6 @@ Hinton.io
 can grow his and his clients' fortunes.
 
 ## Product Scenarios
-
-### Product Scenario 1
 
 **Gregory Harrison and Marry Harrison** are loving parents of a son and a daughter and have grandchildren of 6. Gregory has recently retired after 4 decades working as UPS driver and Marry also retired as secretary from a local university. Among the two them, they have saved money to ensure their sunset years are financially secured. They want to reinvest some of their live savings in the stock market so that they can purchase gifts for their children at important holidays and anniversaries, and leave some money as inheritance to their children and grandchildren when they're gone. However, both Gregory and Marry are not financially intelligent as how to invest and what to invest. So they tend to Hinton.io for stock information.
 
