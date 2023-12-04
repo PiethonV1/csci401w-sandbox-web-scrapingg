@@ -14,7 +14,7 @@
 - [Product Scenarios](#product-scenarios)
   - [Product Scenario 1](#product-scenario-1)
 - [User Stories](#user-stories)
-  - [Feature1: \<Name\>](#feature1-name)
+  - [Feature1:](#feature1-name)
     - [Description](#description)
     - [User Story 1](#user-story-1)
     - [User Story 2](#user-story-2)
