@@ -21,10 +21,10 @@
 
 | Name               | Role                  | Notes |
 |--------------------|-----------------------|-------|
-| Lili Chen          | Developer             |       |
-| Benjamin Allen     | Developer             |       |
-| Jason Cain         | Developer             |       |
-| Dany Seth          | Developer             |       |
+| Lili Chen          | Developer             |    Database   |
+| Benjamin Allen     | Developer             |    Git Documentation   |
+| Jason Cain         | Scrum Master & Developer             |  Forecast Program     |
+| Dany Seth          | Developer             |     Frontend  |
 ---
 
 ## Executive Summary
