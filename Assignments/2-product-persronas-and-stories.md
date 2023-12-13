@@ -60,7 +60,7 @@ that his clients don't need or understand that's available to determine which sp
 **Alex Davis** is a 21-year-old college student pursuing a bachelor's degree in computer science at a reputable university. They are in their junior year and have a strong passion for finance and technology. Alex has been actively trading stocks and cryptocurrencies in their free time for the past year, and they are always looking for ways to enhance their knowledge and make informed investment decisions.
 ## User Stories
 
-### Feature1: Plain Text Feature
+### Feature 1: Plain Text Feature
 
 **Description**
 
