@@ -58,7 +58,9 @@ can grow his and his clients' fortunes.
 
 ## User Stories
 
-### Feature 1: Plain Text Feature
+### Feature 1 
+
+**Plain Text Feature**
 
 **Description**
 
@@ -72,7 +74,9 @@ Challenging to maintain accurate and reliable data interpretation.
 
 A dashboard that has a toggle between plain text and graphical interfaces.
 
-### Feature 2: Graph and Text Section User Interface
+### Feature 2 
+
+**Graph and Text Section User Interface**
 
 **Description**
 
@@ -86,7 +90,9 @@ Users must have an account with Hinton.io to access graphs and charts.
 
 Users may be limited to stock predictions based on free vs. professional account.
 
-### Feature 3: Predictive Analytics
+### Feature 3
+
+**Predictive Analytics**
 
 **Description**
 
@@ -96,7 +102,9 @@ As a user, I need more information than the average user to better assist my cli
 
 Market volatility and uncertainty. Financial markets can be highly volatile, and unforeseen events can lead to sudden changes in market dynamics. Predictive models may struggle to accurately forecast outcomes during periods of heightened uncertainty.
 
-### Feature 4: Q&A
+### Feature 4
+
+**Q&A**
 
 **Description**
 
