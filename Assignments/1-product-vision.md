@@ -28,7 +28,6 @@
 ---
 
 ## Executive Summary
-[Detailed summary about the product's purpose, its users, and its benefits.]
 
 Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technolegies, servicing customers from financially illeterate to expert investors.
 
@@ -110,6 +109,6 @@ In conclusion, Hinton.io is not just a product; it's a movement toward financial
 ---
 
 ## Risks
-[Discuss potential risks or challenges associated with the product.]
-Although AI learning will generally result in high accuracy, outside influences such as the AI receiving and learning form bad data or sudden drops or spikes in stock price may still result in poor prediction output.
+
+Although AI learning will generally result in high accuracy, outside influences such as the AI receiving and learning from bad data or sudden drops or spikes in stock price may still result in poor prediction output.
 
