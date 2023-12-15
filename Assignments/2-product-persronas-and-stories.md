@@ -95,7 +95,7 @@ Our core commitment is to enhance user experience through visually rich graphs. 
 
 **Description**
 
-As a user, I need more information than the average user to better assist my clients in making good market decisions.
+As a user, I need more information than the average user to better assist my clients in making good market decisions. Through the use of powerful algorithms, I will have accurate forecasts that will help me influence investments.
 
 **Constraints**
 
