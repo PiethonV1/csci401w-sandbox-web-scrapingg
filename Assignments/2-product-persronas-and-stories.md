@@ -11,6 +11,7 @@
   - [Persona 1](#persona-1)
   - [Persona 2](#persona-2)
   - [Persona 3](#persona-3)
+  - [Persona 4](#persona-4)
 - [Product Scenarios](#product-scenarios)
 - [User Stories](#user-stories)
   - [Feature 1](#feature-1)
@@ -45,6 +46,9 @@ Hinton.io
 **Experienced Stock Broker**
 <br>Experienced Stock Broker looking for an app that he can use to work with for up-to-date references so that he
 can grow his and his clients' fortunes.
+
+### Persona 4
+<br>College student looking for relatively reliable advice to help with investment decisions.
 
 ## Product Scenarios
 
