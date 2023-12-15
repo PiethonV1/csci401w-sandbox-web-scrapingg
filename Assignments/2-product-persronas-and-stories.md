@@ -14,7 +14,7 @@
   - [Persona 4](#persona-4)
 - [Product Scenarios](#product-scenarios)
 - [User Stories](#user-stories)
-  - [Feature 1](#feature-1)
+  - [Feature 1](#feature-1-user-admin-panel)
   - [Feature 2](#feature-2)
   - [Feature 3](#feature-3)
   - [Feature 4](#feature-4)
