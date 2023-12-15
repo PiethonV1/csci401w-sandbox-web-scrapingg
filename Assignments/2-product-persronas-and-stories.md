@@ -126,14 +126,12 @@ Users arrive at the **homepage**
 
 Users are prompted to **sign in** or **create account**
 
-**Onboard** - Users will select their preferred stocks that they want to track
+Users will gain access to the **dashboard** which is their central hub for stocks
 
-Users will gain access to their **dashboard** which is their central hub for personalized stocks
+Users will be able to **select** a stock they are interested in 
 
-**Graphs and Text section** where users can toggle between graphs and charts or access written prediction analysis
+**Graphs and Charts** where users can toggle between graphs and charts to analyze
 
-**Free vs. Pro version** Users are signed up with basic features by default and have the option to access premium features by upgrading to the professional version.
-
-**Upgrade process** will take users to a page where they can see the benefits of the professional version and payment center
+**Top 5 Stock Headlines** for quick insights of the specific stock in real time
 
 **Logout**
