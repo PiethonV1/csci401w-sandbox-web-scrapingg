@@ -58,41 +58,35 @@ can grow his and his clients' fortunes.
 
 ## User Stories
 
-### Feature 1 
-
-**Plain Text Feature**
+### Feature 1: User Admin Panel
 
 **Description**
 
-As a Hinton.io user, I want to receive stock performance information and recommendations in plain English (instead of complicated charts and figures), so that Marry and I can refer to this information to invest our live savings in the stock market.
+User administration is a feature that gives administrators the ability to handle user accounts. This includes tasks like creating new accounts, making changes to existing ones, and managing who has access to what within the system.
 
 **Constraints**
 
-Challenging to maintain accurate and reliable data interpretation.
+There are limitations to consider when implementing user administration. This could involve how often changes can be made, ensuring that user data is kept private and secure, and making sure the system can handle the growing number of users.
 
 **Comments**
 
-A dashboard that has a toggle between plain text and graphical interfaces.
+User administration is a key part of our system, letting administrators efficiently manage user accounts and control access. It's important to keep things running smoothly while also making sure user data is protected. Regular checks and updates to the user administration system will help us meet user needs and maintain a secure and efficient platform.
 
-### Feature 2 
-
-**Graph and Text Section User Interface**
+### Feature 2: Graph User Interface
 
 **Description**
 
-As a Hinton.io user, I want to have a user-friendly interface that allows me to comprehend graphs and charts easily. However, I would also want the option to access straightforward text as I educate myself about stocks.
+Hinton.io is dedicated to providing users with a seamless and user-friendly interface, centered around visual graphs and charts for a clear understanding of stock-related data. Our platform prioritizes intuitive visualizations, enabling users to easily interpret market trends and insights.
 
 **Constraints**
 
-Users must have an account with Hinton.io to access graphs and charts.
+To access graphs and charts on Hinton.io, users are required to have an active account. While our platform primarily focuses on visual elements, it's important to note that there are no premium or paid accounts. Additionally, the absence of extensive textual content may pose challenges for users who prefer or require basic text-based information.
 
 **Comments**
 
-Users may be limited to stock predictions based on free vs. professional account.
+Our core commitment is to enhance user experience through visually rich graphs. As we refine our platform, user feedback remains invaluable, guiding us in ensuring that our graph-centric approach aligns with the preferences and needs of our diverse user community. We understand the importance of accessibility and are working to find a balance that caters to different learning preferences.
 
-### Feature 3
-
-**Predictive Analytics**
+### Feature 3: Predictive Analytics
 
 **Description**
 
@@ -102,9 +96,7 @@ As a user, I need more information than the average user to better assist my cli
 
 Market volatility and uncertainty. Financial markets can be highly volatile, and unforeseen events can lead to sudden changes in market dynamics. Predictive models may struggle to accurately forecast outcomes during periods of heightened uncertainty.
 
-### Feature 4
-
-**Q&A**
+### Feature 4: Q&A
 
 **Description**
 
@@ -117,6 +109,16 @@ Preventing the dissemination of misleading or incorrect advice and information t
 **Comments**
 
 The dashboard offers a chatbot for Q&A, providing users with an interactive and real-time platform to ask questions, seek financial advice, and engage in discussions, enhancing their overall learning experience and knowledge-sharing within the finance and technology community.
+
+### Feature 5: Top 5 Headlines for Stocks
+
+**Description**
+
+Stay informed at a glance with Hinton.io's curated Top 5 Headlines for Stocks. Access the latest and most relevant stock market updates, ensuring you're well-informed about key developments that may impact your investment decisions.
+
+**Constraints**
+
+Access to the Top 5 Headlines for Stocks feature on Hinton.io is available to all users with an active account. While this feature is designed to provide concise updates, the absence of extensive textual content may pose challenges for users who prefer or require detailed textual information.
 
 ## User Experience
 
