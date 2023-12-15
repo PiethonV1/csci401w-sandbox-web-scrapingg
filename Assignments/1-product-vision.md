@@ -1,7 +1,7 @@
 # CSCI 401 - Software Engineering - Product Vision
 
 ## Summary
-***Hinton.io*** is a software-as-a-service, hosted on the cloud. 
+***Hinton.io*** is a user-friendly web application designed to simplify stock market navigation. With features such as stock predictions, an interactive chat Q&A, real-time headlines, and up to 10 years of historical data, the platform provides a comprehensive and approachable tool for investors of all levels.
 
 **Team: Team Alpha**
 
@@ -29,7 +29,7 @@
 
 ## Executive Summary
 
-Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technolegies, servicing customers from financially illeterate to expert investors.
+Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technologies, servicing customers from financially illeterate to expert investors.
 
 <br>
 
@@ -80,12 +80,24 @@ In conclusion, Hinton.io is not just a product; it's a movement toward financial
 ---
 
 ## Vision Statement
-[Formulate a concise vision statement that captures the essence of the product.]
+At **Hinton.io** we envision a revolutionary web application that empowers users to navigate the complexities of the stock market with confidence and insight. Our platform seamlessly combines cutting-edge stock predictions, an intuitive chat Q&A interface, real-time access to top headlines, and comprehensive historical data spanning up to 10 years. We are committed to providing a user-friendly experience that fosters financial literacy, enabling both novice and seasoned investors to make informed decisions and achieve their investment goals.
 
 ---
 
 ## Product Vision Board
-[Description of the envisioned product, its key features, the target audience, and other relevant details.]
+Our mission is to democratize financial intelligence, making sophisticated stock market analysis accessible to everyone. Whether you're a seasoned investor or just starting your financial journey, **Hinton.io** is your trusted companion, guiding you towards financial success in an ever-evolving market landscape.
+
+**Key Features**
+
+- **Intelligent Stock Predictions:** Utilizing advanced algorithms and machine learning, our web application delivers accurate and timely stock predictions, aiding users in making well-informed investment decisions.
+
+- **Interactive Chat Q&A:** A user-friendly chat interface facilitates dynamic interactions, allowing users to seek advice, share insights, and engage with a community of like-minded investors. Our platform promotes collaboration and the exchange of valuable information.
+
+- **Top Headlines Sidebar:** Stay informed with a dedicated sidebar featuring real-time updates on the latest market trends, breaking news, and impactful events. Accessible at a glance, this feature ensures users are always in the know.
+
+- **Comprehensive Ticker System:** Users can select from a wide array of tickers, granting them access to detailed historical data spanning up to 10 years. Dive deep into the performance of individual stocks, analyze trends, and make informed investment choices.
+
+- **User Login:** Seamlessly access the platform with a straightforward login process, providing users with instant entry to a wealth of financial insights.
 
 ---
 ## Lean Canvas
