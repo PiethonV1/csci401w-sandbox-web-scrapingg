@@ -15,9 +15,10 @@
 - [Product Scenarios](#product-scenarios)
 - [User Stories](#user-stories)
   - [Feature 1](#feature-1-user-admin-panel)
-  - [Feature 2](#feature-2)
-  - [Feature 3](#feature-3)
-  - [Feature 4](#feature-4)
+  - [Feature 2](#feature-2-graph-user-interface)
+  - [Feature 3](#feature-3-predictive-analytics)
+  - [Feature 4](#feature-4-Q&A)
+  - [Feature 5](#feature-5-top-5-headlines-for-stocks)
 - [User Experience](#user-experience)
 
 ## Product Definition
