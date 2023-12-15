@@ -139,6 +139,8 @@ Users will be able to **select** a stock they are interested in
 
 **Top 5 Stock Headlines** for quick insights of the specific stock in real time
 
+**QA Bot** where users can ask questions and get answers on the fly
+
 **Logout**
 
 [def]: #feature-4-
