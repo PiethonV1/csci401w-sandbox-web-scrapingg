@@ -56,6 +56,8 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Dany** - When I first started work, I was taught to use cherry-pick in Git which often led to conflicts where I started to update the code manually. Before I started this course, I researched a ton on best ways to merge without facing this issue. About 2 weeks into the course, our professor talked about facing similar situations and that manually updating Git would be easier. I took this with a bit more confidence and I am sticking to manually updating all my changes without feeling doubtful of how I am merging codes. 
 
+   **Jason** - Before this course, I had minimal experience with team-based software development. I was introduced to great tools such as Git and Trello, which were used through the whole development process. I enjoyed using Teams to communicate as well. I used to always code on my own and not work with people. Overall, this course made me comfortable with collaboration!
+
 ## Product Showcase
 
 ### Elevator Pitch
