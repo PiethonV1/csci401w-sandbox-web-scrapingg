@@ -30,11 +30,15 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    *Describe how your team used tools like Slack and Trello to coordinate tasks. Share an example of how assigning tasks in Trello helped streamline your group projects and fostered effective communication.*
 
+   **Jason** - Starting this project, I was familiar with Slack and ClickUp for coordinating tasks. Trello is very similar to those, and the group enjoyed its' simplicity. The use of Teams provided effective communication for the group as well if we weren't together on campus.
+
 2. **Challenges and Overcoming Them:**
 
    *Recall a specific challenge, like debugging a code issue together. Explain how you collaborated to identify the bug's source and successfully resolved it. This experience showcases your problem-solving and teamwork skills.*
 
    **Dany** - We all encountered challenges while running Django on our local machines due to compatibility issues with certain Python or Django versions and incompatible packages. Our troubleshooting documentation played a crucial role in overcoming these challenges. An instance involved a teammate facing a unique error. We collaborated for approximately an hour, before we decided to troubleshoot together through TeamViewer(something new I got to experience). I went through our troubleshooting document and retraced the steps to run Django and successfully configured it to run on their local machine.
+
+   **Jason** - Initially, we encountered issues setting up github and cloning the repository. Then it turned into implementing ideas into code. After troubleshooting with each other, we overcame any technical issue that came throughout the project's cycle. As Dany mentioned, TeamViewer was useful. Especially when all of us weren't on campus. Overall, **Communication** and **Research** helped problem solve.
 
 3. **Accomplishments and Pride:**
 
@@ -43,6 +47,8 @@ Reflect on your journey in learning software engineering through concrete scenar
    **Dany** - I played a role in building a login system for our project using Django and some frontend work for both the login system and our dashboard. This included creating a user-friendly UI and making sure users were smoothly being redirected to our main dashboard, where we used Streamlit for our core functionality.  
 
    Integrating Streamlit with Django posed a challenge since Streamlit usually runs independently, often opening in a new tab each time a user logs in. To solve this, I embedded the Streamlit application within an iframe. This way, users could seamlessly move from the login page to the dashboard without disruptions.
+
+   **Jason** - I played a role in creating the Streamlit application. I chose Streamlit because it was designed for data-centric applications. There is a massive community that provides resources which helped me in the delopment process. I have always had an interest in machine learning, and Streamlit provides many libraries that help showcase models and visualize data. This program was intended to run independently, but I shared with the group that it may be a fun experience to integrate with Django. Additionally, Streamlit applications offer customization options for both beginners and advanced users.
 
 4. **Learning and Growth:**
 
