@@ -1,6 +1,7 @@
 # CSCI 401 - Software Engineering - Product Vision
 
 ## Summary
+
 ***Hinton.io*** is a user-friendly web application designed to simplify stock market navigation. With features such as stock predictions, an interactive chat Q&A, real-time headlines, and up to 10 years of historical data, the platform provides a comprehensive and approachable tool for investors of all levels.
 
 **Team: Team Alpha**
@@ -80,7 +81,8 @@ In conclusion, Hinton.io is not just a product; it's a movement toward financial
 ---
 
 ## Vision Statement
-At **Hinton.io** we envision a revolutionary web application that empowers users to navigate the complexities of the stock market with confidence and insight. Our platform seamlessly combines cutting-edge stock predictions, an intuitive chat Q&A interface, real-time access to top headlines, and comprehensive historical data spanning up to 10 years. We are committed to providing a user-friendly experience that fosters financial literacy, enabling both novice and seasoned investors to make informed decisions and achieve their investment goals.
+
+FOR investors WHO strive for a competitive advantage, **Hinton.io** is a web-based application THAT offers accurate financial forecasts utilizing machine learning. UNLIKE other financial tools, **Hinton.io** provides a user-friendly experience to streamline complex data analysis and decision-making processes. Our platform stands out with an intuitive interface, ensuring accessibility for both seasoned investors and newcomers to the financial landscape. **Hinton.io** is committed to democratizing the power of accurate financial predictions, offering a seamless and approachable solution that empowers investors to navigate the markets with confidence and make informed, strategic investment choices.
 
 ---
 
