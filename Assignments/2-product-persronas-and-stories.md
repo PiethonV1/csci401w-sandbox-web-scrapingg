@@ -142,5 +142,3 @@ Users will be able to **select** a stock they are interested in
 **QA Bot** where users can ask questions and get answers on the fly
 
 **Logout**
-
-[def]: #feature-4-
