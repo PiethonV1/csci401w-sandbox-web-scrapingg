@@ -1,10 +1,5 @@
 
-
-/* Weak entity, depend on Strong entity: Company
-It doesn't not have PRIMARY KEY*/
 CREATE TABLE Stock_Ticker(
-/* Adj_Close DECIMAL(6,2),
-Volume INT,*/
 Ticker VARCHAR (10),
 Open_date DATE,
 Open_Price DECIMAL(6,2),
@@ -12,21 +7,11 @@ High DECIMAL(6,2),
 Low DECIMAL(6,2),
 Close_price DECIMAL(6,2),
 PRIMARY KEY (Ticker, Open_date)
-/* FOREIGN KEY (Ticker) REFERENCES Company(Ticker)
-	ON DELETE CASCADE
-    ON UPDATE CASCADE */
 );
 
-/*
-INSERT INTO Stock VALUES
-(),
-();
-*/
+
 
 CREATE TABLE User(
-/* MemberID INT UNSIGNED AUTO_INCREMENT,
-Account_Passwd VARCHAR(50) CHECK (Email_Addr IN ('abcdefghijiklmno', 'ABCDEF','~!@#$%_^&*()')),
-*/
 UserName VARCHAR(20) UNIQUE NOT NULL, 
 Email_Addr VARCHAR(100) CHECK (Email_Addr IN ('abcdefghijiklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','~!@#$%_^&*()')),
 PRIMARY KEY(UserName)

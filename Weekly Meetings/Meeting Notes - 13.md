@@ -1,4 +1,25 @@
-Class:
+## 📝 Team Meeting Notes (Team 1)
+### 📅 Meeting Date: [12/4/2023]
+### 🕒 Time: [6:30PM] - [8:30PM]
+### 📍 Location: [In-Person @Craig Lee 012]
+
+<br>
+
+### 📣 Attendees:
+[Benjamin Allen]
+[Dany Seth]
+[Jason Cain]
+[Lili Chen]
+
+<br>
+
+### 🎯 Meeting Objectives:
+- Django database features vs SQLite
+- Combining each other's work and finaling Hinton.io
+
+<br>
+
+### 🗒️ Notes:
 Security:
 	React App:
 		
@@ -38,7 +59,9 @@ If Feedback is wanted:
 	Reflection/Assignment Piece.
 
 
+<br>
 
--------------------------------------------------------------------------------
+### To Do:
+
 Meeting 13:
 Skipped - See Chat.

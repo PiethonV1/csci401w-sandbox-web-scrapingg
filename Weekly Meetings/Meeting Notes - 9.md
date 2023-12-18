@@ -1,11 +1,68 @@
+## 📝 Team Meeting Notes (Team 1)
+### 📅 Meeting Date: [11/6/2023]
+### 🕒 Time: [6:30PM] - [8:30PM]
+### 📍 Location: [In-Person @Craig Lee 012]
+
+<br>
+
+### 📣 Attendees:
+[Benjamin Allen]
+[Dany Seth]
+[Jason Cain]
+[Lili Chen]
+
+<br>
+
+### 🎯 Meeting Objectives:
+- Database change to SQLite
+- Issues occured when running Streamlit
+- Issues occured when running Hinton.io
+
+<br>
+
+### 🗒️ Notes:
+DB: SQLite
+
+Problem: Streamlit supposed to be on it's own - not on top of Django
+	Alts for Streamlit?
+		New version: Run on own machine, Output on UI. 
+		Make sure your plugged in. Uses Computers Specs.
+
+Pull tables > DB > Visual > Django > Another Window
+
+Next Step: Get Database running.
+
+Database larger than thought.
+
+Look at other predection models / Docker?
+
+Difficulty on running project:
+	Goal: Run on any computer. Progess made.
+	
+	Clear Cache? (ChatGPT?) (pip cmd?)
+
+	Have to put in manually
+
+Seperate class
+
+Learning curve: Make work with "alien" software.
+
+Only Pulls - Graphs
+
+
+<br>
+
+### To Do:
+
+
 -------------------------------------
 Class Notes - Workshop
 
-Finish Foundation
-Feature Focus
-Presentations
+- Finish Foundation
+- Feature Focus
+- Presentations
 
-Challenges -
+**Challenges** -
 	Breaking up work
 	Studio > Github
 	(Us) Tech stack getting started
@@ -15,7 +72,7 @@ Challenges -
 
 -------------------------------------
 
-Assignment 4 - 
+**Assignment 4** - 
 	Backlog in Trello with Acceptance Criteria
 	5 - 10 Min Video	
 		Upload to Teams Channel
@@ -147,36 +204,5 @@ Other -
 
 		
 		
--------------------------------------
-
-Meeting Notes -
-
-DB: SQLite
-
-Problem: Streamlit supposed to be on it's own - not on top of Django
-	Alts for Streamlit?
-		New version: Run on own machine, Output on UI. 
-		Make sure your plugged in. Uses Computers Specs.
-
-Pull tables > DB > Visual > Django > Another Window
-
-Next Step: Get Database running.
-
-Database larger than thought.
-
-Look at other predection models / Docker?
-
-Difficulty on running project:
-	Goal: Run on any computer. Progess made.
-	
-	Clear Cache? (ChatGPT?) (pip cmd?)
-
-	Have to put in manually
-
-Seperate class
-
-Learning curve: Make work with "alien" software.
-
-Only Pulls - Graphs
 
 

@@ -1,3 +1,59 @@
+## 📝 Team Meeting Notes (Team 1)
+### 📅 Meeting Date: [10/10/2023]
+### 🕒 Time: [6:30PM] - [8:30PM]
+### 📍 Location: [In-Person @Craig Lee 012]
+
+<br>
+
+### 📣 Attendees:
+[Benjamin Allen]
+[Dany Seth]
+[Jason Cain]
+[Lili Chen]
+
+<br>
+
+### 🎯 Meeting Objectives:
+- data storage formate
+- Database construction
+- User interactive Q&A service on Hinton.io
+
+<br>
+
+### 🗒️ Notes:
+
+Reducing size of json files.
+
+DB - Comparing Prof's Demo to Ours
+Our's gets too complicated too fast.
+Two Tables for Extra Support
+	One - Users, Two - Stock (Raw Data)
+		Two: Run it on last ten years of data (Adjustable)
+			Might need a third table?
+		Only a Few Stocks/Markets
+		Keep Date, Open, High, Low, Close
+
+Database: SQLite
+
+Dummy Data
+
+Reduce Credentials?
+
+QA:
+Full QA is too much: Requires MASSIVE DB to search thru.
+Try building a Chatbot instead.
+	Solves answering simple questions without requiring massive DB of Data to draw from.
+	Customer Focused.
+
+**User Stories: Each sentence has one feature.**
+
+<br>
+
+### To Do:
+
+
+
+
 Class 9:
 
 Cancelled. "Meeting" was in teams chat log.
@@ -46,29 +102,6 @@ Main Problem: Connecting everything together
 Main Vibe: Could have taken this course earlier.
 	
 ---------------------------------------------------------------------
-"Working Session" - aka - Meeting:
 
-Reducing size of json files.
-
-DB - Comparing Prof's Demo to Ours
-Our's gets too complicated too fast.
-Two Tables for Extra Support
-	One - Users, Two - Stock (Raw Data)
-		Two: Run it on last ten years of data (Adjustable)
-			Might need a third table?
-		Only a Few Stocks/Markets
-		Keep Date, Open, High, Low, Close
-
-Database: SQLite
-
-Dummy Data
-
-Reduce Credentials?
-
-QA:
-Full QA is too much: Requires MASSIVE DB to search thru.
-Try building a Chatbot instead.
-	Solves answering simple questions without requiring massive DB of Data to draw from.
-	Customer Focused.
 
 ---------------------------------------------------------------------
