@@ -30,8 +30,7 @@
 
 ## Executive Summary
 
-Hinton.io is providing a prediction service of stock price and cryptocurrencues using cutting edge technologies, servicing customers from financially illeterate to expert investors.
-
+Hinton.io is providing a prediction service of stock price and cryptocurrencies using cutting edge technologies, servicing customers from financially illiterate to expert investors.
 <br>
 
 # Product Vision
