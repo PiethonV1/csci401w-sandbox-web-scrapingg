@@ -85,8 +85,8 @@ Illustrate a coding concept with a relatable analogy:
 
 ### Access Your Work
 
-- **[Presentation Slides](link-to-presentation):** Share a link to your final presentation slides.
-- **[Source Code Repository](link-to-repo):** Provide access to your source code repository.
+- **[Presentation Slides](https://emailric-my.sharepoint.com/:p:/g/personal/jcain_7978_email_ric_edu/EXPWB_dhcO1PrltWA_Ct-vsBwUqOWzuGdiY6woqBDh18iw?e=BvT5LS):** Share a link to your final presentation slides.
+- **[Source Code Repository](https://github.com/PiethonV1/csci401w-sandbox-web-scrapingg/tree/main/Source%20Code):** Provide access to your source code repository.
 - **Other Materials:** Include links to diagrams or documents you created for your project.
 
 ## Final Reflection Presentation
