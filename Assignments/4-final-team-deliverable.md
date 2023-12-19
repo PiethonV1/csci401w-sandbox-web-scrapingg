@@ -32,7 +32,7 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Starting this project, I was familiar with Slack and ClickUp for coordinating tasks. Trello is very similar to those, and the group enjoyed its' simplicity. The use of Teams provided effective communication for the group as well if we weren't together on campus.
 
-   **Lili** As a team, at the beginning of the project, we brainstormed and discussed ideas of the project. Two favored project ideas was AI-powered stock-picking service, and college admission couching service to preper high school students to successfully enroll their dream collegies/universities. Although there're many existing AI-powered financial services, our team decided to work on it as a great learning experience.
+   **Lili** - As a team, at the beginning of the project, we brainstormed and discussed ideas of the project. Two favored project ideas was AI-powered stock-picking service, and college admission couching service to preper high school students to successfully enroll their dream collegies/universities. Although there're many existing AI-powered financial services, our team decided to work on it as a great learning experience.
 
 2. **Challenges and Overcoming Them:**
 
@@ -42,7 +42,7 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Initially, we encountered issues setting up github and cloning the repository. Then it turned into implementing ideas into code. After troubleshooting with each other, we overcame any technical issue that came throughout the project's cycle. As Dany mentioned, TeamViewer was useful. Especially when all of us weren't on campus. Overall, **Communication** and **Research** helped problem solve.
 
-    **Lili** At the beginning of the sememster, none of the teammember had experience on full-stack development project. Therefore, we didn't know how to integrate database, data, website, API, AI and other componnents together. The team researched on front-end & back-end framework, and decided on Django. I had prior experience on how to build database on MySQL, learned JavaScript and Django on the fly. My main controbution to the project was database, which itself was a challenge. For example, how to store historic stock data, pull & update daily stock data, and call stock information from the back-end as well as how to present this data in the front-end. Thanks to researches and team communication, we finalized on calling stock data via Yahoo Finance and using Streamlit to present to users in charts, and ingerated AI-powered chatbox to help new investors to understand these stock data in textual format.
+    **Lili** - At the beginning of the sememster, none of the teammember had experience on full-stack development project. Therefore, we didn't know how to integrate database, data, website, API, AI and other componnents together. The team researched on front-end & back-end framework, and decided on Django. I had prior experience on how to build database on MySQL, learned JavaScript and Django on the fly. My main controbution to the project was database, which itself was a challenge. For example, how to store historic stock data, pull & update daily stock data, and call stock information from the back-end as well as how to present this data in the front-end. Thanks to researches and team communication, we finalized on calling stock data via Yahoo Finance and using Streamlit to present to users in charts, and ingerated AI-powered chatbox to help new investors to understand these stock data in textual format.
 
 3. **Accomplishments and Pride:**
 
@@ -55,7 +55,7 @@ Reflect on your journey in learning software engineering through concrete scenar
    **Jason** - I played a role in creating the Streamlit application. I chose Streamlit because it was designed for data-centric applications. There is a massive community that provides resources which helped me in the delopment process. I have always had an interest in machine learning, and Streamlit provides many libraries that help showcase models and visualize data. This program was intended to run independently, but I shared with the group that it may be a fun experience to integrate with Django. Additionally, Streamlit applications offer customization options for both beginners and advanced users.
 
 
-   **Lili** As a team, we all contributed to this project. My main contributions are, brainstorming & finalizing project ideas; stock data management and presentation (database), recording & finalizing meeting notes, and communicating & updating project progresses with the team.
+   **Lili** - As a team, we all contributed to this project. My main contributions are, brainstorming & finalizing project ideas; stock data management and presentation (database), recording & finalizing meeting notes, and communicating & updating project progresses with the team.
 
 
 4. **Learning and Growth:**
@@ -66,7 +66,7 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Before this course, I had minimal experience with team-based software development. I was introduced to great tools such as Git and Trello, which were used through the whole development process. I enjoyed using Teams to communicate as well. I used to always code on my own and not work with people. Overall, this course made me comfortable with collaboration!
 
-   **Lili** It was a great learning experience to work on a full-stack project. Learning various frameworks for both front-end and back-end development. Lots to do in the near future to have myself comfortable in building full-stack products. For example, JavaScript has many cool features such as Node.js and Machine Learning on JavaScript. It's really cool to discover and learn development tools. 
+   **Lili** - It was a great learning experience to work on a full-stack project. Learning various frameworks for both front-end and back-end development. Lots to do in the near future to have myself comfortable in building full-stack products. For example, JavaScript has many cool features such as Node.js and Machine Learning on JavaScript. It's really cool to discover and learn development tools. 
 
 
 ## Product Showcase
