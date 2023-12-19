@@ -120,7 +120,22 @@ In the end, a successful code project is like serving a perfect sandwich to your
 Answer the following questions with practical examples:
 
 1. **Team Collaboration Skills:** Reflect on a time when coordinating with team members improved a project's outcome or efficiency.
+
+Selecting the project idea was a team effort. Each of us had many great ideas and chose to work on Hinton.io was a team effort. We all found it would a cool project to work on and each of us can learn from workin on the project.
+
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
+
+For example, in the Database element, which could include multiple tables and represent various attributions of stock. How could the stock data presented to users in a straight-forward and easy to digest manner was our main concern. In the end, our team chose to use Yahoo Finance and Streamlit.
+
 3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
+
+**Lili** - Selecting the project idea was quick fun as every teammember had many cool ideas. We researched on these project ideas and analyzed the feasibility of working on these project in a time frame of one sememster. We decided on the AI-powered stock picking service.
+
+
 4. **Applied Knowledge:** Describe a technical concept learned in class that you've used in your project, highlighting its practical relevance.
+
+**Lili** - For me, it's good to know the various development style: waterfall v. Agile; various frameworks in front-end v. back-end development. things to consider in architecture and software development: not only building a product, but how to effeciently & effectively build a projet in a secure manner.
+
 5. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
+
+**Lili** - As the team made progress on the project, at each small step, we learn new things. For example, which development framework do we adopt in front-end and back-end. I researched Django and other frameworks, and learned Django has cybersecurity built in and support of many other software components. Another good skill that I learned during this semest is how to use Github and push & pull code on Visual Studio Code. Additionally. how to host Hinton.io and present to users in static mode: one solution is to link our Github repository to [Netlify](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain), another is to use VSC extention, or run it in local host. Also, I did spend great many time in learning JavaScript, how to create an interactive website (Hinton.io) using JavaScript (although our team decidec on another solution.).
