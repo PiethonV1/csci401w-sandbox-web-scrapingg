@@ -32,6 +32,8 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Starting this project, I was familiar with Slack and ClickUp for coordinating tasks. Trello is very similar to those, and the group enjoyed its' simplicity. The use of Teams provided effective communication for the group as well if we weren't together on campus.
 
+   **Lili** - As a team, at the beginning of the project, we brainstormed and discussed ideas of the project. Two favored project ideas was AI-powered stock-picking service, and college admission couching service to preper high school students to successfully enroll their dream collegies/universities. Although there're many existing AI-powered financial services, our team decided to work on it as a great learning experience.
+
 2. **Challenges and Overcoming Them:**
 
    *Recall a specific challenge, like debugging a code issue together. Explain how you collaborated to identify the bug's source and successfully resolved it. This experience showcases your problem-solving and teamwork skills.*
@@ -39,6 +41,8 @@ Reflect on your journey in learning software engineering through concrete scenar
    **Dany** - We all encountered challenges while running Django on our local machines due to compatibility issues with certain Python or Django versions and incompatible packages. Our troubleshooting documentation played a crucial role in overcoming these challenges. An instance involved a teammate facing a unique error. We collaborated for approximately an hour, before we decided to troubleshoot together through TeamViewer(something new I got to experience). I went through our troubleshooting document and retraced the steps to run Django and successfully configured it to run on their local machine.
 
    **Jason** - Initially, we encountered issues setting up github and cloning the repository. Then it turned into implementing ideas into code. After troubleshooting with each other, we overcame any technical issue that came throughout the project's cycle. As Dany mentioned, TeamViewer was useful. Especially when all of us weren't on campus. Overall, **Communication** and **Research** helped problem solve.
+
+    **Lili** - At the beginning of the sememster, none of the teammember had experience on full-stack development project. Therefore, we didn't know how to integrate database, data, website, API, AI and other componnents together. The team researched on front-end & back-end framework, and decided on Django. I had prior experience on how to build database on MySQL, learned JavaScript and Django on the fly. My main controbution to the project was database, which itself was a challenge. For example, how to store historic stock data, pull & update daily stock data, and call stock information from the back-end as well as how to present this data in the front-end. Thanks to researches and team communication, we finalized on calling stock data via Yahoo Finance and using Streamlit to present to users in charts, and ingerated AI-powered chatbox to help new investors to understand these stock data in textual format.
 
 3. **Accomplishments and Pride:**
 
@@ -50,6 +54,10 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - I played a role in creating the Streamlit application. I chose Streamlit because it was designed for data-centric applications. There is a massive community that provides resources which helped me in the delopment process. I have always had an interest in machine learning, and Streamlit provides many libraries that help showcase models and visualize data. This program was intended to run independently, but I shared with the group that it may be a fun experience to integrate with Django. Additionally, Streamlit applications offer customization options for both beginners and advanced users.
 
+
+   **Lili** - As a team, we all contributed to this project. My main contributions are, brainstorming & finalizing project ideas; stock data management and presentation (database), recording & finalizing meeting notes, and communicating & updating project progresses with the team.
+
+
 4. **Learning and Growth:**
 
    *Provide an example of how you applied a concept learned in class to a practical scenario. Describe how you used version control (like Git) to collaborate on a coding assignment, improving code organization and collaboration.*
@@ -58,11 +66,16 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Before this course, I had minimal experience with team-based software development. I was introduced to great tools such as Git and Trello, which were used through the whole development process. I enjoyed using Teams to communicate as well. I used to always code on my own and not work with people. Overall, this course made me comfortable with collaboration!
 
+   **Lili** - It was a great learning experience to work on a full-stack project. Learning various frameworks for both front-end and back-end development. Lots to do in the near future to have myself comfortable in building full-stack products. For example, JavaScript has many cool features such as Node.js and Machine Learning on JavaScript. It's really cool to discover and learn development tools. 
+
+
 ## Product Showcase
 
 ### Elevator Pitch
 
 Hinton.io revolutionizes stock prediction with a seamless blend of sophisticated analysis and user-friendly interface. Imagine navigating the complex world of stock market insights as effortlessly as flipping through your favorite magazine. Our app, with its intuitive design (akin to a user-friendly magazine layout), empowers both novice and experienced investors to effortlessly access and comprehend stock predictions. Just like a well-organized magazine makes content discovery a breeze, Hinton.io's streamlined interface enhances user navigation, ensuring a smooth journey through the intricacies of stock data. Elevate your investment experience with Hinton.io, where insightful predictions meet a user-friendly design for a market exploration like never before.
+
+Hinton.io is an AI-powered tool to help all investors to pick best performing stock.
 
 ### Product Demo
 
@@ -121,7 +134,22 @@ In the end, a successful code project is like serving a perfect sandwich to your
 Answer the following questions with practical examples:
 
 1. **Team Collaboration Skills:** Reflect on a time when coordinating with team members improved a project's outcome or efficiency.
+
+Selecting the project idea was a team effort. Each of us had many great ideas and chose to work on Hinton.io was a team effort. We all found it would a cool project to work on and each of us can learn from workin on the project.
+
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
+
+For example, in the Database element, which could include multiple tables and represent various attributions of stock. How could the stock data presented to users in a straight-forward and easy to digest manner was our main concern. In the end, our team chose to use Yahoo Finance and Streamlit.
+
 3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
+
+**Lili** - Selecting the project idea was quick fun as every teammember had many cool ideas. We researched on these project ideas and analyzed the feasibility of working on these project in a time frame of one sememster. We decided on the AI-powered stock picking service.
+
+
 4. **Applied Knowledge:** Describe a technical concept learned in class that you've used in your project, highlighting its practical relevance.
+
+**Lili** - For me, it's good to know the various development style: waterfall v. Agile; various frameworks in front-end v. back-end development. things to consider in architecture and software development: not only building a product, but how to effeciently & effectively build a projet in a secure manner.
+
 5. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
+
+**Lili** - As the team made progress on the project, at each small step, we learn new things. For example, which development framework do we adopt in front-end and back-end. I researched Django and other frameworks, and learned Django has cybersecurity built in and support of many other software components. Another good skill that I learned during this semest is how to use Github and push & pull code on Visual Studio Code. Additionally. how to host Hinton.io and present to users in static mode: one solution is to link our Github repository to [Netlify](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain), another is to use VSC extention, or run it in local host. Also, I did spend great many time in learning JavaScript, how to create an interactive website (Hinton.io) using JavaScript (although our team decidec on another solution.).
