@@ -75,7 +75,7 @@ Reflect on your journey in learning software engineering through concrete scenar
 
 Hinton.io revolutionizes stock prediction with a seamless blend of sophisticated analysis and user-friendly interface. Imagine navigating the complex world of stock market insights as effortlessly as flipping through your favorite magazine. Our app, with its intuitive design (akin to a user-friendly magazine layout), empowers both novice and experienced investors to effortlessly access and comprehend stock predictions. Just like a well-organized magazine makes content discovery a breeze, Hinton.io's streamlined interface enhances user navigation, ensuring a smooth journey through the intricacies of stock data. Elevate your investment experience with Hinton.io, where insightful predictions meet a user-friendly design for a market exploration like never before.
 
-Hinton.io is an AI-powered tool to help all investors to pick best performing stock.
+Overall, **Hinton.io is an AI-powered tool to help all investors to pick best performing stock.**
 
 ### Product Demo
 
@@ -83,7 +83,7 @@ Hinton.io is an AI-powered tool to help all investors to pick best performing st
 
 ### Technical Architecture Overview
 
-Simplify a technical concept with an example:
+Simplify a technical concept with an example...
 
 Imagine Hinton.io as a live TV show about stock predictions. In this setup:
 
@@ -137,19 +137,29 @@ Answer the following questions with practical examples:
 
 Selecting the project idea was a team effort. Each of us had many great ideas and chose to work on Hinton.io was a team effort. We all found it would a cool project to work on and each of us can learn from workin on the project.
 
+**Jason** - We enjoyed the use of Trello to track our tasks. We also greatly enjoyed the use of Teams to share thoughts virtually whenever we had to. Overall, we had great communication and I will continue to use these methods throughout my journey as a dev. 
+
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
 
 For example, in the Database element, which could include multiple tables and represent various attributions of stock. How could the stock data presented to users in a straight-forward and easy to digest manner was our main concern. In the end, our team chose to use Yahoo Finance and Streamlit.
 
+**Jason** - In general, whenever someone had an issue, it was properly communicated via Teams or verbally in class. From there, we figured out who else had a similar issue and came up with a solution for it. A lot of debugging took place. Finding errors became second nature... If noone in the group knew, research was our friend. That is why we chose popular tools to work with so we were able to find solutions to our problems.
+
 3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
 
 **Lili** - Selecting the project idea was quick fun as every teammember had many cool ideas. We researched on these project ideas and analyzed the feasibility of working on these project in a time frame of one sememster. We decided on the AI-powered stock picking service.
+
+**Jason** - I introduced the team to Streamlit web applications. I was able to present how user friendly the library is and how we can utilize the built-in features to make a core program. It has plenty of resources to assist with development. Overall, it is a fantastic platform for data apps that utilize machine learning and to generate visualizations. I created the stock prediction program, and with that, we tied in the many plug and play aspects to it to really show off that application. 
 
 
 4. **Applied Knowledge:** Describe a technical concept learned in class that you've used in your project, highlighting its practical relevance.
 
 **Lili** - For me, it's good to know the various development style: waterfall v. Agile; various frameworks in front-end v. back-end development. things to consider in architecture and software development: not only building a product, but how to effeciently & effectively build a projet in a secure manner.
 
+**Jason** - I found that the Agile methodology was useful for our project. Before this course, I have only seen that term while looking through job descriptions. I was excited to learn about the concept in class and how we would apply that into our project. I found the sprints to be useful because we were able to break down our project into managable pieces and complete them as a team. 
+
 5. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
 
 **Lili** - As the team made progress on the project, at each small step, we learn new things. For example, which development framework do we adopt in front-end and back-end. I researched Django and other frameworks, and learned Django has cybersecurity built in and support of many other software components. Another good skill that I learned during this semest is how to use Github and push & pull code on Visual Studio Code. Additionally. how to host Hinton.io and present to users in static mode: one solution is to link our Github repository to [Netlify](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain), another is to use VSC extention, or run it in local host. Also, I did spend great many time in learning JavaScript, how to create an interactive website (Hinton.io) using JavaScript (although our team decidec on another solution.).
+
+**Jason** - I found Django to be a challenge because I haven't used that framework before. It was exciting that we selected that framework because I enjoy learning new tools... Specifically, I didn't understand how to connect the Streamlit application to Django. As a team, we researched how to do that and we compared with other examples and then tried to replicate the process. I am glad there were many resources on that framework because we definitely needed them to get through.
