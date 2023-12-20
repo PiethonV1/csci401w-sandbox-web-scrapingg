@@ -34,7 +34,9 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Lili** - As a team, at the beginning of the project, we brainstormed and discussed ideas of the project. Two favored project ideas was AI-powered stock-picking service, and college admission couching service to preper high school students to successfully enroll their dream collegies/universities. Although there're many existing AI-powered financial services, our team decided to work on it as a great learning experience.
 
-2. **Challenges and Overcoming Them:**
+    **Ben** - Trello was a soild tool to learn about and use. We were able to keep track of everything we wanted to add into Hinton.io, and we knew who was focusing on what specific user story.
+
+3. **Challenges and Overcoming Them:**
 
    *Recall a specific challenge, like debugging a code issue together. Explain how you collaborated to identify the bug's source and successfully resolved it. This experience showcases your problem-solving and teamwork skills.*
 
@@ -44,7 +46,9 @@ Reflect on your journey in learning software engineering through concrete scenar
 
     **Lili** - At the beginning of the sememster, none of the teammember had experience on full-stack development project. Therefore, we didn't know how to integrate database, data, website, API, AI and other componnents together. The team researched on front-end & back-end framework, and decided on Django. I had prior experience on how to build database on MySQL, learned JavaScript and Django on the fly. My main controbution to the project was database, which itself was a challenge. For example, how to store historic stock data, pull & update daily stock data, and call stock information from the back-end as well as how to present this data in the front-end. Thanks to researches and team communication, we finalized on calling stock data via Yahoo Finance and using Streamlit to present to users in charts, and ingerated AI-powered chatbox to help new investors to understand these stock data in textual format.
 
-3. **Accomplishments and Pride:**
+   **Ben** - Creating a QA AI System was confusing, as every different tutorial I saw online had a different way of explaining the concept of the system, without explaining how to code the system. The AI Chatbot was also similarly difficult, as every tutorial had a different way to code. Additionally, my computer was having trouble running Python. Eventually, I found Botpress, a website that allowed me to build a chatbot in a visual manner.
+
+4. **Accomplishments and Pride:**
 
    *Highlight a feature you contributed to, such as creating a login system. Discuss how your combined skills enabled the team to deliver a functional feature that enhances user experience.*
 
@@ -54,11 +58,11 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - I played a role in creating the Streamlit application. I chose Streamlit because it was designed for data-centric applications. There is a massive community that provides resources which helped me in the delopment process. I have always had an interest in machine learning, and Streamlit provides many libraries that help showcase models and visualize data. This program was intended to run independently, but I shared with the group that it may be a fun experience to integrate with Django. Additionally, Streamlit applications offer customization options for both beginners and advanced users.
 
-
    **Lili** - As a team, we all contributed to this project. My main contributions are, brainstorming & finalizing project ideas; stock data management and presentation (database), recording & finalizing meeting notes, and communicating & updating project progresses with the team.
 
+     **Ben** - My main role was building a QA System. Through research I found that the scope of it would have far exceeded the scope of the project, so instead I found that building a chatbot would fulfill the user story for a Question and Answering system, while being easy to build and maintain. I was also the team scribe, keeping notes for both the meetings and the class, keeping us on track.
 
-4. **Learning and Growth:**
+6. **Learning and Growth:**
 
    *Provide an example of how you applied a concept learned in class to a practical scenario. Describe how you used version control (like Git) to collaborate on a coding assignment, improving code organization and collaboration.*
 
@@ -66,7 +70,9 @@ Reflect on your journey in learning software engineering through concrete scenar
 
    **Jason** - Before this course, I had minimal experience with team-based software development. I was introduced to great tools such as Git and Trello, which were used through the whole development process. I enjoyed using Teams to communicate as well. I used to always code on my own and not work with people. Overall, this course made me comfortable with collaboration!
 
-   **Lili** - It was a great learning experience to work on a full-stack project. Learning various frameworks for both front-end and back-end development. Lots to do in the near future to have myself comfortable in building full-stack products. For example, JavaScript has many cool features such as Node.js and Machine Learning on JavaScript. It's really cool to discover and learn development tools. 
+   **Lili** - It was a great learning experience to work on a full-stack project. Learning various frameworks for both front-end and back-end development. Lots to do in the near future to have myself comfortable in building full-stack products. For example, JavaScript has many cool features such as Node.js and Machine Learning on JavaScript. It's really cool to discover and learn development tools.
+
+    **Ben** - Using and learning Trello was very helpful. Before, I would try to keep track of projects and task mentally, without help by writing it down. With Trello, we were able to keep track of what needed to get done, and who was doing it. I'll be looking foward to using Trello for future project.
 
 
 ## Product Showcase
@@ -145,11 +151,15 @@ For example, in the Database element, which could include multiple tables and re
 
 **Jason** - In general, whenever someone had an issue, it was properly communicated via Teams or verbally in class. From there, we figured out who else had a similar issue and came up with a solution for it. A lot of debugging took place. Finding errors became second nature... If noone in the group knew, research was our friend. That is why we chose popular tools to work with so we were able to find solutions to our problems.
 
+ **Ben** - When researching and developing the Chatbot, my computer refused to run Python code, preventing me from testing the code I was working on. This lead to me finding a workaround via Botpress, which allowed me to build my Chatbot without needing to struggle with my computer.
+
 3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
 
 **Lili** - Selecting the project idea was quick fun as every teammember had many cool ideas. We researched on these project ideas and analyzed the feasibility of working on these project in a time frame of one sememster. We decided on the AI-powered stock picking service.
 
 **Jason** - I introduced the team to Streamlit web applications. I was able to present how user friendly the library is and how we can utilize the built-in features to make a core program. It has plenty of resources to assist with development. Overall, it is a fantastic platform for data apps that utilize machine learning and to generate visualizations. I created the stock prediction program, and with that, we tied in the many plug and play aspects to it to really show off that application. 
+
+ **Ben** - As the team scribe, I was taking notes of both the in class lectures, as well as our meeting notes, allowing us to see how far we had come with our project and keeping track of what we had to do next.
 
 
 4. **Applied Knowledge:** Describe a technical concept learned in class that you've used in your project, highlighting its practical relevance.
